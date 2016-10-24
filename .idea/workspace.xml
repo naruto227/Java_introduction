@@ -1,0 +1,2473 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="4c292b54-89c4-478a-8d69-c6a01e89e107" name="Default" comment="game Frame class">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Java_introduction/MyGame/GameFrame$1.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Java_introduction/MyGame/GameFrame$PaintThread.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Java_introduction/MyGame/GameFrame.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Java_introduction/MyGame/GameUtil.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Java_introduction/OuterClass/Face$NOSE.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Java_introduction/OuterClass/Face.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Java_introduction/OuterClass/Outer.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Java_introduction/abstractClass/Animal.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Java_introduction/abstractClass/Cat.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Java_introduction/abstractClass/Dog.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Java_introduction/abstractClass/Test.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Java_introduction/callback/GameFrame01.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Java_introduction/callback/GameFrame02.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Java_introduction/callback/GameFrame03.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Java_introduction/callback/GameFrame04.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Java_introduction/callback/IMyFrame.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Java_introduction/callback/MyFrame.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Java_introduction/callback/PaintFrame.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Java_introduction/cn/hzq/Car.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Java_introduction/cn/hzq/Computer.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Java_introduction/cn/hzq/MyMath.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Java_introduction/cn/hzq/Point.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Java_introduction/cn/hzq/Student.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Java_introduction/cn/hzq/Test.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Java_introduction/cn/hzq/TestConstructor.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Java_introduction/cn/hzq/TestOverload.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Java_introduction/cn/hzq/TestStatic.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Java_introduction/cn/oop/hzq/testObject/Mobile.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Java_introduction/cn/oop/hzq/testObject/TestObject.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Java_introduction/com/company/Main.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Java_introduction/exception/Computer.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Java_introduction/exception/TestException.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Java_introduction/exception/TestReadFile.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Java_introduction/exception/TestReadFile1.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Java_introduction/exception/TestReadFileSequ.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Java_introduction/images/9d52c073gw1e9twtifbdtj20np0zkn29.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Java_introduction/images/9d52c073gw1e9twtj82wgj20a00hs76r.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Java_introduction/images/9d52c073gw1e9v7vjrrrcj20et0k0taz.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Java_introduction/images/9d52c073gw1e9v7vl6cnij20go0p0n0z.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Java_introduction/images/9d52c073gw1e9v7vm70yvj20hl0qewi3.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Java_introduction/images/9d52c073gw1e9v7vmuf9kj20j20pf0wt.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Java_introduction/images/9d52c073gw1e9v7vntg3jj20go0oyq7d.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Java_introduction/images/9d52c073gw1e9wa1d22jwj20go0p0gmr.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Java_introduction/images/9d52c073gw1e9wa1dn68uj20a00hsta4.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Java_introduction/images/9d52c073jw1e8hfbgnav8j20c80gadh1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Java_introduction/images/9d52c073jw1e8hfbiiatsj20go0of789.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Java_introduction/images/9d52c073jw1e8hfbjr12oj20dw0kojwa.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Java_introduction/images/9d52c073jw1e8hfbkj1fij20bs0foaah.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Java_introduction/images/9d52c073jw1e8ipkgd4mmj20g40lhjvf.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Java_introduction/images/9d52c073jw1e8ipkh05w5j20dc0k075h.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Java_introduction/images/9d52c073jw1e8ipkjmh7aj20fe0k0wg5.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Java_introduction/images/9d52c073jw1e8ipkk9rl3j20ci0hp0ul.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Java_introduction/images/9d52c073jw1e8ipkl8i15j20dw0itgo7.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Java_introduction/images/9d52c073jw1e8jr1e822ej20fe0kiwi3.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Java_introduction/images/9d52c073jw1e8jr1ga10oj20go0oidkc.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Java_introduction/images/9d52c073jw1e8jr1ifjshj20fa0mxn0z.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Java_introduction/images/9d52c073jw1e8kxak0ao2j20f00k03zs.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Java_introduction/images/9d52c073jw1e8kxakk6h6j20dv0fu3zc.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Java_introduction/images/9d52c073jw1e8kxalfmapj20g40o6wif.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Java_introduction/images/9d52c073jw1e8kxambk0wj20dc0k0abo.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Java_introduction/images/9d52c073jw1e8kxan0pi9j20dc0gamxt.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Java_introduction/images/9d52c073jw1e8mamte121j20ci0iuaco.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Java_introduction/images/9d52c073jw1e8mamu27kij20ci0ixdj2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Java_introduction/images/9d52c073jw1e8mamv90kej20g40l5n11.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Java_introduction/images/9d52c073jw1e8mamw6fooj20g40qltd4.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Java_introduction/images/9d52c073jw1e8mamxs2ktj20g40m6wig.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Java_introduction/images/9d52c073jw1e8oe0kak90j20go0oi78e.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Java_introduction/images/9d52c073jw1e8oe0kwneej20dw0kutbh.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Java_introduction/images/9d52c073jw1e8oe0lqxaaj20dg0k9ta2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Java_introduction/images/9d52c073jw1e8oe0n5lzvj20go0p0tap.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Java_introduction/images/9d52c073jw1e8pj0uz2t1j20go0ncn15.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Java_introduction/images/lADOff4-9ygo_40_40.jpg_620x10000q90g.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Java_introduction/inherit/Animal.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Java_introduction/inherit/Animal2.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Java_introduction/inherit/Birds.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Java_introduction/inherit/Birds2.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Java_introduction/inherit/Mammal.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Java_introduction/inherit/Mammal2.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Java_introduction/inherit/Paxing.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Java_introduction/inherit/Paxing2.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Java_introduction/inherit/TestAnimal.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Java_introduction/multiArray/Matrix.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Java_introduction/multiArray/test01.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Java_introduction/multiArray/testArray.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Java_introduction/myCollection/Human.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Java_introduction/myCollection/MyArrayList.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Java_introduction/polymophism/Animal.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Java_introduction/polymophism/Cat.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Java_introduction/polymophism/Dog.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Java_introduction/polymophism/Pig.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Java_introduction/polymophism/Test.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Java_introduction/polymophism/servlet/HttpServlet.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Java_introduction/polymophism/servlet/MyServlet.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Java_introduction/polymophism/servlet/Test.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Java_introduction/testArray/Car.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Java_introduction/testArray/test01.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Java_introduction/testArray/test02.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Java_introduction/testDate/FileTree.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Java_introduction/testDate/TestCalendar.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Java_introduction/testDate/TestDate.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Java_introduction/testDate/TestFile.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Java_introduction/testDate/VisualCalendar.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Java_introduction/testDate/testDateFormat.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Java_introduction/testInterface/Attack.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Java_introduction/testInterface/Flyable.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Java_introduction/testInterface/InterfaceA.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Java_introduction/testInterface/InterfaceB.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Java_introduction/testInterface/InterfaceC.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Java_introduction/testInterface/Man.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Java_introduction/testInterface/MyClass.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Java_introduction/testInterface/MyInterface.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Java_introduction/testInterface/Plane.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Java_introduction/testInterface/Stone.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Java_introduction/testInterface/TestClass.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Java_introduction/testString/test01.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Java_introduction/testStringBuilder/test01.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Java_introduction/testStringBuilder/test02.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Java_introduction/testWrappedClass/test01.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Java_introduction/testWrappedClass/test02.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/images/9d52c073gw1e9twtifbdtj20np0zkn29.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/images/9d52c073gw1e9twtj82wgj20a00hs76r.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/images/9d52c073gw1e9v7vjrrrcj20et0k0taz.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/images/9d52c073gw1e9v7vl6cnij20go0p0n0z.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/images/9d52c073gw1e9v7vm70yvj20hl0qewi3.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/images/9d52c073gw1e9v7vmuf9kj20j20pf0wt.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/images/9d52c073gw1e9v7vntg3jj20go0oyq7d.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/images/9d52c073gw1e9wa1d22jwj20go0p0gmr.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/images/9d52c073gw1e9wa1dn68uj20a00hsta4.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/images/9d52c073jw1e8hfbgnav8j20c80gadh1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/images/9d52c073jw1e8hfbiiatsj20go0of789.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/images/9d52c073jw1e8hfbjr12oj20dw0kojwa.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/images/9d52c073jw1e8hfbkj1fij20bs0foaah.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/images/9d52c073jw1e8ipkgd4mmj20g40lhjvf.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/images/9d52c073jw1e8ipkh05w5j20dc0k075h.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/images/9d52c073jw1e8ipkjmh7aj20fe0k0wg5.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/images/9d52c073jw1e8ipkk9rl3j20ci0hp0ul.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/images/9d52c073jw1e8ipkl8i15j20dw0itgo7.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/images/9d52c073jw1e8jr1e822ej20fe0kiwi3.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/images/9d52c073jw1e8jr1ga10oj20go0oidkc.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/images/9d52c073jw1e8jr1ifjshj20fa0mxn0z.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/images/9d52c073jw1e8kxak0ao2j20f00k03zs.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/images/9d52c073jw1e8kxakk6h6j20dv0fu3zc.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/images/9d52c073jw1e8kxalfmapj20g40o6wif.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/images/9d52c073jw1e8kxambk0wj20dc0k0abo.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/images/9d52c073jw1e8kxan0pi9j20dc0gamxt.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/images/9d52c073jw1e8mamte121j20ci0iuaco.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/images/9d52c073jw1e8mamu27kij20ci0ixdj2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/images/9d52c073jw1e8mamv90kej20g40l5n11.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/images/9d52c073jw1e8mamw6fooj20g40qltd4.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/images/9d52c073jw1e8mamxs2ktj20g40m6wig.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/images/9d52c073jw1e8oe0kak90j20go0oi78e.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/images/9d52c073jw1e8oe0kwneej20dw0kutbh.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/images/9d52c073jw1e8oe0lqxaaj20dg0k9ta2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/images/9d52c073jw1e8oe0n5lzvj20go0p0tap.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/images/9d52c073jw1e8pj0uz2t1j20go0ncn15.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/images/lADOff4-9ygo_40_40.jpg_620x10000q90g.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/compiler.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/copyright/profiles_settings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/description.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/encodings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/project-template.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Java_introduction.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/idea常用快捷键.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/MyGame/GameFrame.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/MyGame/GameUtil.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/OuterClass/Outer.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/abstractClass/Animal.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/abstractClass/Test.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/callback/MyFrame.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/callback/PaintFrame.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/cn/hzq/Car.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/cn/hzq/Computer.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/cn/hzq/Point.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/cn/hzq/Student.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/cn/hzq/Test.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/cn/hzq/TestConstructor.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/cn/hzq/TestOverload.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/cn/hzq/TestStatic.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/cn/oop/hzq/testObject/Mobile.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/cn/oop/hzq/testObject/TestObject.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/company/Main.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/exception/TestException.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/exception/TestReadFile.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/exception/TestReadFile1.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/exception/TestReadFileSequ.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/inherit/Animal.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/inherit/Animal2.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/inherit/TestAnimal.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/multiArray/Matrix.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/multiArray/test01.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/multiArray/testArray.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/myCollection/Human.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/myCollection/MyArrayList.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/polymophism/Animal.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/polymophism/Test.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/polymophism/servlet/HttpServlet.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/polymophism/servlet/MyServlet.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/polymophism/servlet/Test.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/testArray/Car.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/testArray/test01.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/testArray/test02.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/testDate/FileTree.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/testDate/TestCalendar.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/testDate/TestDate.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/testDate/TestFile.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/testDate/VisualCalendar.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/testDate/testDateFormat.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/testInterface/Flyable.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/testInterface/InterfaceA.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/testInterface/MyClass.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/testInterface/MyInterface.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/testString/test01.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/testStringBuilder/test01.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/testStringBuilder/test02.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/testWrappedClass/test01.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/testWrappedClass/test02.java" />
+    </list>
+    <ignored path="Java_introduction.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path=".idea/dataSources.local.xml" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="DatabaseView">
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_TABLE_DETAILS" value="true" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="Java_introduction" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="GameFrame.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/MyGame/GameFrame.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="378">
+              <caret line="21" column="39" selection-start-line="21" selection-start-column="39" selection-end-line="21" selection-end-column="39" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#1208#1209#0" expanded="true" />
+                <element signature="e#1264#1265#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Thread.java" pinned="false" current-in-tab="false">
+        <entry file="jar:///usr/local/java/jdk1.8.0_91/src.zip!/java/lang/Thread.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="217">
+              <caret line="695" column="29" selection-start-line="695" selection-start-column="29" selection-end-line="695" selection-end-column="29" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="GameUtil.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/MyGame/GameUtil.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="252">
+              <caret line="14" column="20" selection-start-line="14" selection-start-column="20" selection-end-line="14" selection-end-column="20" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Font.java" pinned="false" current-in-tab="false">
+        <entry file="jar:///usr/local/java/jdk1.8.0_91/src.zip!/java/awt/Font.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1081">
+              <caret line="566" column="11" selection-start-line="566" selection-start-column="11" selection-end-line="566" selection-end-column="11" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Color.java" pinned="false" current-in-tab="false">
+        <entry file="jar:///usr/local/java/jdk1.8.0_91/src.zip!/java/awt/Color.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-252">
+              <caret line="59" column="13" selection-start-line="59" selection-start-column="13" selection-end-line="59" selection-end-column="13" />
+              <folding>
+                <element signature="docComment;class#Color#0" expanded="false" />
+                <element signature="docComment;field#white#0;class#Color#0" expanded="false" />
+                <element signature="docComment;field#WHITE#0;class#Color#0" expanded="false" />
+                <element signature="docComment;field#lightGray#0;class#Color#0" expanded="false" />
+                <element signature="docComment;field#LIGHT_GRAY#0;class#Color#0" expanded="false" />
+                <element signature="docComment;field#gray#0;class#Color#0" expanded="false" />
+                <element signature="docComment;field#GRAY#0;class#Color#0" expanded="false" />
+                <element signature="docComment;field#darkGray#0;class#Color#0" expanded="false" />
+                <element signature="docComment;field#DARK_GRAY#0;class#Color#0" expanded="false" />
+                <element signature="docComment;field#black#0;class#Color#0" expanded="false" />
+                <element signature="docComment;field#BLACK#0;class#Color#0" expanded="false" />
+                <element signature="docComment;field#red#0;class#Color#0" expanded="false" />
+                <element signature="docComment;field#RED#0;class#Color#0" expanded="false" />
+                <element signature="docComment;field#pink#0;class#Color#0" expanded="false" />
+                <element signature="docComment;field#PINK#0;class#Color#0" expanded="false" />
+                <element signature="docComment;field#orange#0;class#Color#0" expanded="false" />
+                <element signature="docComment;field#ORANGE#0;class#Color#0" expanded="false" />
+                <element signature="docComment;field#yellow#0;class#Color#0" expanded="false" />
+                <element signature="docComment;field#YELLOW#0;class#Color#0" expanded="false" />
+                <element signature="docComment;field#green#0;class#Color#0" expanded="false" />
+                <element signature="docComment;field#GREEN#0;class#Color#0" expanded="false" />
+                <element signature="docComment;field#magenta#0;class#Color#0" expanded="false" />
+                <element signature="docComment;field#MAGENTA#0;class#Color#0" expanded="false" />
+                <element signature="docComment;field#cyan#0;class#Color#0" expanded="false" />
+                <element signature="docComment;field#CYAN#0;class#Color#0" expanded="false" />
+                <element signature="docComment;field#blue#0;class#Color#0" expanded="false" />
+                <element signature="docComment;field#BLUE#0;class#Color#0" expanded="false" />
+                <element signature="docComment;field#value#0;class#Color#0" expanded="false" />
+                <element signature="docComment;field#frgbvalue#0;class#Color#0" expanded="false" />
+                <element signature="docComment;field#fvalue#0;class#Color#0" expanded="false" />
+                <element signature="docComment;field#falpha#0;class#Color#0" expanded="false" />
+                <element signature="docComment;field#cs#0;class#Color#0" expanded="false" />
+                <element signature="docComment;method#initIDs#0;class#Color#0" expanded="false" />
+                <element signature="initializer##0;class#Color#0" expanded="false" />
+                <element signature="docComment;method#testColorValueRange#0;class#Color#0" expanded="false" />
+                <element signature="method#testColorValueRange#0;class#Color#0" expanded="false" />
+                <element signature="docComment;method#testColorValueRange#1;class#Color#0" expanded="false" />
+                <element signature="method#testColorValueRange#1;class#Color#0" expanded="false" />
+                <element signature="docComment;method#Color#0;class#Color#0" expanded="false" />
+                <element signature="docComment;method#Color#1;class#Color#0" expanded="false" />
+                <element signature="method#Color#1;class#Color#0" expanded="false" />
+                <element signature="docComment;method#Color#2;class#Color#0" expanded="false" />
+                <element signature="docComment;method#Color#3;class#Color#0" expanded="false" />
+                <element signature="method#Color#3;class#Color#0" expanded="false" />
+                <element signature="docComment;method#Color#4;class#Color#0" expanded="false" />
+                <element signature="method#Color#4;class#Color#0" expanded="false" />
+                <element signature="docComment;method#Color#5;class#Color#0" expanded="false" />
+                <element signature="method#Color#5;class#Color#0" expanded="false" />
+                <element signature="docComment;method#Color#6;class#Color#0" expanded="false" />
+                <element signature="method#Color#6;class#Color#0" expanded="false" />
+                <element signature="docComment;method#getRed#0;class#Color#0" expanded="false" />
+                <element signature="docComment;method#getGreen#0;class#Color#0" expanded="false" />
+                <element signature="docComment;method#getBlue#0;class#Color#0" expanded="false" />
+                <element signature="docComment;method#getAlpha#0;class#Color#0" expanded="false" />
+                <element signature="docComment;method#getRGB#0;class#Color#0" expanded="false" />
+                <element signature="docComment;method#brighter#0;class#Color#0" expanded="false" />
+                <element signature="method#brighter#0;class#Color#0" expanded="false" />
+                <element signature="docComment;method#darker#0;class#Color#0" expanded="false" />
+                <element signature="method#darker#0;class#Color#0" expanded="false" />
+                <element signature="docComment;method#hashCode#0;class#Color#0" expanded="false" />
+                <element signature="docComment;method#equals#0;class#Color#0" expanded="false" />
+                <element signature="docComment;method#toString#0;class#Color#0" expanded="false" />
+                <element signature="method#toString#0;class#Color#0" expanded="false" />
+                <element signature="docComment;method#decode#0;class#Color#0" expanded="false" />
+                <element signature="method#decode#0;class#Color#0" expanded="false" />
+                <element signature="docComment;method#getColor#0;class#Color#0" expanded="false" />
+                <element signature="docComment;method#getColor#1;class#Color#0" expanded="false" />
+                <element signature="method#getColor#1;class#Color#0" expanded="false" />
+                <element signature="docComment;method#getColor#2;class#Color#0" expanded="false" />
+                <element signature="method#getColor#2;class#Color#0" expanded="false" />
+                <element signature="docComment;method#HSBtoRGB#0;class#Color#0" expanded="false" />
+                <element signature="method#HSBtoRGB#0;class#Color#0" expanded="false" />
+                <element signature="docComment;method#RGBtoHSB#0;class#Color#0" expanded="false" />
+                <element signature="method#RGBtoHSB#0;class#Color#0" expanded="false" />
+                <element signature="docComment;method#getHSBColor#0;class#Color#0" expanded="false" />
+                <element signature="docComment;method#getRGBComponents#0;class#Color#0" expanded="false" />
+                <element signature="method#getRGBComponents#0;class#Color#0" expanded="false" />
+                <element signature="docComment;method#getRGBColorComponents#0;class#Color#0" expanded="false" />
+                <element signature="method#getRGBColorComponents#0;class#Color#0" expanded="false" />
+                <element signature="docComment;method#getComponents#0;class#Color#0" expanded="false" />
+                <element signature="method#getComponents#0;class#Color#0" expanded="false" />
+                <element signature="docComment;method#getColorComponents#0;class#Color#0" expanded="false" />
+                <element signature="method#getColorComponents#0;class#Color#0" expanded="false" />
+                <element signature="docComment;method#getComponents#1;class#Color#0" expanded="false" />
+                <element signature="method#getComponents#1;class#Color#0" expanded="false" />
+                <element signature="docComment;method#getColorComponents#1;class#Color#0" expanded="false" />
+                <element signature="method#getColorComponents#1;class#Color#0" expanded="false" />
+                <element signature="docComment;method#getColorSpace#0;class#Color#0" expanded="false" />
+                <element signature="method#getColorSpace#0;class#Color#0" expanded="false" />
+                <element signature="docComment;method#createContext#0;class#Color#0" expanded="false" />
+                <element signature="method#createContext#0;class#Color#0" expanded="false" />
+                <element signature="docComment;method#getTransparency#0;class#Color#0" expanded="false" />
+                <element signature="method#getTransparency#0;class#Color#0" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="WindowAdapter.java" pinned="false" current-in-tab="false">
+        <entry file="jar:///usr/local/java/jdk1.8.0_91/src.zip!/java/awt/event/WindowAdapter.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="217">
+              <caret line="54" column="22" selection-start-line="54" selection-start-column="22" selection-end-line="54" selection-end-column="22" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="WindowEvent.java" pinned="false" current-in-tab="false">
+        <entry file="jar:///usr/local/java/jdk1.8.0_91/src.zip!/java/awt/event/WindowEvent.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="126">
+              <caret line="58" column="13" selection-start-line="58" selection-start-column="13" selection-end-line="58" selection-end-column="13" />
+              <folding>
+                <element signature="docComment;class#WindowEvent#0" expanded="false" />
+                <element signature="docComment;field#WINDOW_FIRST#0;class#WindowEvent#0" expanded="false" />
+                <element signature="docComment;field#WINDOW_OPENED#0;class#WindowEvent#0" expanded="false" />
+                <element signature="docComment;field#WINDOW_CLOSING#0;class#WindowEvent#0" expanded="false" />
+                <element signature="docComment;field#WINDOW_CLOSED#0;class#WindowEvent#0" expanded="false" />
+                <element signature="docComment;field#WINDOW_ICONIFIED#0;class#WindowEvent#0" expanded="false" />
+                <element signature="docComment;field#WINDOW_DEICONIFIED#0;class#WindowEvent#0" expanded="false" />
+                <element signature="docComment;field#WINDOW_ACTIVATED#0;class#WindowEvent#0" expanded="false" />
+                <element signature="docComment;field#WINDOW_DEACTIVATED#0;class#WindowEvent#0" expanded="false" />
+                <element signature="docComment;field#WINDOW_GAINED_FOCUS#0;class#WindowEvent#0" expanded="false" />
+                <element signature="docComment;field#WINDOW_LOST_FOCUS#0;class#WindowEvent#0" expanded="false" />
+                <element signature="docComment;field#WINDOW_STATE_CHANGED#0;class#WindowEvent#0" expanded="false" />
+                <element signature="docComment;field#WINDOW_LAST#0;class#WindowEvent#0" expanded="false" />
+                <element signature="docComment;field#opposite#0;class#WindowEvent#0" expanded="false" />
+                <element signature="docComment;field#oldState#0;class#WindowEvent#0" expanded="false" />
+                <element signature="docComment;method#WindowEvent#0;class#WindowEvent#0" expanded="false" />
+                <element signature="method#WindowEvent#0;class#WindowEvent#0" expanded="false" />
+                <element signature="docComment;method#WindowEvent#1;class#WindowEvent#0" expanded="false" />
+                <element signature="docComment;method#WindowEvent#2;class#WindowEvent#0" expanded="false" />
+                <element signature="method#WindowEvent#2;class#WindowEvent#0" expanded="false" />
+                <element signature="docComment;method#WindowEvent#3;class#WindowEvent#0" expanded="false" />
+                <element signature="docComment;method#getWindow#0;class#WindowEvent#0" expanded="false" />
+                <element signature="docComment;method#getOppositeWindow#0;class#WindowEvent#0" expanded="false" />
+                <element signature="method#getOppositeWindow#0;class#WindowEvent#0" expanded="false" />
+                <element signature="docComment;method#getOldState#0;class#WindowEvent#0" expanded="false" />
+                <element signature="docComment;method#getNewState#0;class#WindowEvent#0" expanded="false" />
+                <element signature="docComment;method#paramString#0;class#WindowEvent#0" expanded="false" />
+                <element signature="method#paramString#0;class#WindowEvent#0" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Accessible.java" pinned="false" current-in-tab="false">
+        <entry file="jar:///usr/local/java/jdk1.8.0_91/src.zip!/javax/accessibility/Accessible.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="270">
+              <caret line="38" column="17" selection-start-line="38" selection-start-column="17" selection-end-line="38" selection-end-column="17" />
+              <folding>
+                <element signature="e#0#1211#0" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="idea常用快捷键.txt" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/idea常用快捷键.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="180">
+              <caret line="10" column="27" selection-start-line="10" selection-start-column="27" selection-end-line="10" selection-end-column="27" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="UPDATE_TYPE" value="MERGE" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RESET_MODE" value="MIXED" />
+  </component>
+  <component name="GradleLocalSettings">
+    <option name="externalProjectsViewState">
+      <projects_view />
+    </option>
+  </component>
+  <component name="HierarchyBrowserManager">
+    <option name="SORT_ALPHABETICALLY" value="true" />
+    <option name="SCOPE" value="All" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/idea常用快捷键.js" />
+        <option value="$PROJECT_DIR$/src/testStringBuilder/test01.java" />
+        <option value="$PROJECT_DIR$/src/myCollection/Human.java" />
+        <option value="$PROJECT_DIR$/src/multiArray/test01.java" />
+        <option value="$PROJECT_DIR$/src/abstractClass/Test.java" />
+        <option value="$PROJECT_DIR$/src/cn/hzq/Student.java" />
+        <option value="$PROJECT_DIR$/src/inherit/Animal.java" />
+        <option value="$PROJECT_DIR$/src/testStringBuilder/test02.java" />
+        <option value="$PROJECT_DIR$/src/testString/test01.java" />
+        <option value="$PROJECT_DIR$/src/testInterface/Flyable.java" />
+        <option value="$PROJECT_DIR$/src/testInterface/MyClass.java" />
+        <option value="$PROJECT_DIR$/src/testArray/test02.java" />
+        <option value="$PROJECT_DIR$/src/polymophism/servlet/HttpServlet.java" />
+        <option value="$PROJECT_DIR$/src/multiArray/Matrix.java" />
+        <option value="$PROJECT_DIR$/src/multiArray/testArray.java" />
+        <option value="$PROJECT_DIR$/src/testArray/test01.java" />
+        <option value="$PROJECT_DIR$/src/myCollection/MyArrayList.java" />
+        <option value="$PROJECT_DIR$/src/testWrappedClass/test01.java" />
+        <option value="$PROJECT_DIR$/src/testWrappedClass/test02.java" />
+        <option value="$PROJECT_DIR$/src/testDate/test01.java" />
+        <option value="$PROJECT_DIR$/src/testDate/testDateFormat.java" />
+        <option value="$PROJECT_DIR$/src/testDate/testCalendar.java" />
+        <option value="$PROJECT_DIR$/src/testDate/testDate.java" />
+        <option value="$PROJECT_DIR$/src/testDate/TestDate.java" />
+        <option value="$PROJECT_DIR$/src/testDate/FileTree.java" />
+        <option value="$PROJECT_DIR$/src/exception/TestException.java" />
+        <option value="$PROJECT_DIR$/src/exception/TestTryCatch.java" />
+        <option value="$PROJECT_DIR$/src/exception/TestReadFile.java" />
+        <option value="$PROJECT_DIR$/src/exception/TestReadFileSequ.java" />
+        <option value="$PROJECT_DIR$/src/exception/TestReadFile1.java" />
+        <option value="$PROJECT_DIR$/src/cn/hzq/Test.java" />
+        <option value="$PROJECT_DIR$/idea常用快捷键.txt" />
+        <option value="$PROJECT_DIR$/src/MyGame/GameUtil.java" />
+        <option value="$PROJECT_DIR$/src/MyGame/GameFrame.java" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="Bundled (Maven 3)" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState />
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="60" />
+    <option name="y" value="39" />
+    <option name="width" value="1717" />
+    <option name="height" value="1048" />
+  </component>
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State>
+            <id />
+          </State>
+          <State>
+            <id>Class structureJava</id>
+          </State>
+          <State>
+            <id>Code maturity issuesJava</id>
+          </State>
+          <State>
+            <id>Google Web Toolkit issues</id>
+          </State>
+          <State>
+            <id>Java</id>
+          </State>
+          <State>
+            <id>Java language level migration aidsJava</id>
+          </State>
+          <State>
+            <id>Javadoc issuesJava</id>
+          </State>
+          <State>
+            <id>Performance issuesJava</id>
+          </State>
+          <State>
+            <id>Spring</id>
+          </State>
+          <State>
+            <id>Spring AOPSpring</id>
+          </State>
+          <State>
+            <id>TestNGJava</id>
+          </State>
+          <State>
+            <id>Threading issuesJava</id>
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>Android</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Java_introduction" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Java_introduction" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Java_introduction" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Java_introduction" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Java_introduction" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Java_introduction" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Java_introduction" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="MyGame" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Java_introduction" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Java_introduction" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="images" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+      <pane id="Scratches" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="js-jscs-nodeInterpreter" value="/usr/local/bin/node" />
+    <property name="settings.editor.selected.configurable" value="project.propDebugger" />
+    <property name="settings.editor.splitter.proportion" value="0.2" />
+    <property name="ChangesBrowser.SHOW_FLATTEN" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src" />
+    </key>
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="myCollection" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.GameFrame">
+    <configuration default="false" name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="abstractClass.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="abstractClass.Test" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="Java_introduction" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="TestConstructor" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="cn.hzq.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="cn.hzq.TestConstructor" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="Java_introduction" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="Test (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="cn.hzq.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="cn.hzq.Test" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="Java_introduction" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="TestObject" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="cn.oop.hzq.testObject.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="cn.oop.hzq.testObject.TestObject" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="Java_introduction" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="GameFrame" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="MyGame.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="MyGame.GameFrame" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="Java_introduction" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="AndroidRunConfigurationType" factoryName="Android Application">
+      <module name="" />
+      <option name="DEPLOY" value="true" />
+      <option name="ARTIFACT_NAME" value="" />
+      <option name="PM_INSTALL_OPTIONS" value="" />
+      <option name="ACTIVITY_EXTRA_FLAGS" value="" />
+      <option name="MODE" value="default_activity" />
+      <option name="TARGET_SELECTION_MODE" value="SHOW_DIALOG" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="true" />
+      <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
+      <option name="FORCE_STOP_RUNNING_APP" value="true" />
+      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="DEEP_LINK" value="" />
+      <option name="ACTIVITY_CLASS" value="" />
+      <method />
+    </configuration>
+    <configuration default="true" type="AndroidTestRunConfigurationType" factoryName="Android Tests">
+      <module name="" />
+      <option name="TESTING_TYPE" value="0" />
+      <option name="INSTRUMENTATION_RUNNER_CLASS" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="EXTRA_OPTIONS" value="" />
+      <option name="TARGET_SELECTION_MODE" value="SHOW_DIALOG" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="true" />
+      <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
+      <option name="FORCE_STOP_RUNNING_APP" value="true" />
+      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
+      <option name="PREFERRED_AVD" value="" />
+      <method />
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="ArquillianJUnit" factoryName="">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+      <method />
+    </configuration>
+    <configuration default="true" type="ArquillianTestNG" factoryName="">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <envs />
+      <properties />
+      <listeners />
+      <method />
+    </configuration>
+    <configuration default="true" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="myFilePath" />
+      <option name="GLUE" />
+      <option name="myNameFilter" />
+      <option name="myGeneratedName" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="FlashRunConfigurationType" factoryName="Flash App">
+      <option name="BCName" value="" />
+      <option name="IOSSimulatorSdkPath" value="" />
+      <option name="adlOptions" value="" />
+      <option name="airProgramParameters" value="" />
+      <option name="appDescriptorForEmulator" value="Android" />
+      <option name="debugTransport" value="USB" />
+      <option name="debuggerSdkRaw" value="BC SDK" />
+      <option name="emulator" value="NexusOne" />
+      <option name="emulatorAdlOptions" value="" />
+      <option name="fastPackaging" value="true" />
+      <option name="fullScreenHeight" value="0" />
+      <option name="fullScreenWidth" value="0" />
+      <option name="launchUrl" value="false" />
+      <option name="launcherParameters">
+        <LauncherParameters>
+          <option name="browser" value="a7bb68e0-33c0-4d6f-a81a-aac1fdb870c8" />
+          <option name="launcherType" value="OSDefault" />
+          <option name="newPlayerInstance" value="false" />
+          <option name="playerPath" value="/usr/bin/flashplayerdebugger" />
+        </LauncherParameters>
+      </option>
+      <option name="mobileRunTarget" value="Emulator" />
+      <option name="moduleName" value="" />
+      <option name="overriddenMainClass" value="" />
+      <option name="overriddenOutputFileName" value="" />
+      <option name="overrideMainClass" value="false" />
+      <option name="runTrusted" value="true" />
+      <option name="screenDpi" value="0" />
+      <option name="screenHeight" value="0" />
+      <option name="screenWidth" value="0" />
+      <option name="url" value="http://" />
+      <option name="usbDebugPort" value="7936" />
+      <method />
+    </configuration>
+    <configuration default="true" type="FlexUnitRunConfigurationType" factoryName="FlexUnit" appDescriptorForEmulator="Android" class_name="" emulatorAdlOptions="" method_name="" package_name="" scope="Class">
+      <option name="BCName" value="" />
+      <option name="launcherParameters">
+        <LauncherParameters>
+          <option name="browser" value="a7bb68e0-33c0-4d6f-a81a-aac1fdb870c8" />
+          <option name="launcherType" value="OSDefault" />
+          <option name="newPlayerInstance" value="false" />
+          <option name="playerPath" value="/usr/bin/flashplayerdebugger" />
+        </LauncherParameters>
+      </option>
+      <option name="moduleName" value="" />
+      <option name="trusted" value="true" />
+      <method />
+    </configuration>
+    <configuration default="true" type="GradleRunConfiguration" factoryName="Gradle">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list />
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <method />
+    </configuration>
+    <configuration default="true" type="GrailsRunConfigurationType" factoryName="Grails">
+      <setting name="vmparams" value="" />
+      <setting name="cmdLine" value="run-app" />
+      <setting name="passParentEnv" value="true" />
+      <setting name="launchBrowser" value="true" />
+      <setting name="depsClasspath" value="false" />
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+      <method />
+    </configuration>
+    <configuration default="true" type="JUnitTestDiscovery" factoryName="JUnit Test Discovery" changeList="All">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+      <method />
+    </configuration>
+    <configuration default="true" type="JarApplication" factoryName="JAR Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="Java Scratch" factoryName="Java Scratch">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="SCRATCH_FILE_ID" value="0" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="JetRunConfigurationType" factoryName="Kotlin">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="Java_introduction" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType" factoryName="Kotlin script">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="filePath" />
+      <option name="vmParameters" />
+      <option name="alternativeJrePath" />
+      <option name="programParameters" />
+      <option name="passParentEnvs" value="true" />
+      <option name="workingDirectory" />
+      <option name="isAlternativeJrePathEnabled" value="false" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="NodeJSConfigurationType" factoryName="Node.js" path-to-node="project" working-dir="">
+      <method />
+    </configuration>
+    <configuration default="true" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <envs />
+      <properties />
+      <listeners />
+      <method />
+    </configuration>
+    <configuration default="true" type="TestNGTestDiscovery" factoryName="TestNG Test Discovery" changeList="All">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <envs />
+      <properties />
+      <listeners />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.npm" factoryName="npm">
+      <command value="run-script" />
+      <scripts />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="mocha-javascript-test-runner" factoryName="Mocha">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <working-directory />
+      <pass-parent-env>true</pass-parent-env>
+      <envs />
+      <ui>bdd</ui>
+      <extra-mocha-options />
+      <test-kind>DIRECTORY</test-kind>
+      <test-directory />
+      <recursive>false</recursive>
+      <method />
+    </configuration>
+    <configuration default="true" type="osgi.bnd.run" factoryName="Run Launcher">
+      <method />
+    </configuration>
+    <configuration default="true" type="osgi.bnd.run" factoryName="Test Launcher (JUnit)">
+      <method />
+    </configuration>
+    <list size="5">
+      <item index="0" class="java.lang.String" itemvalue="Application.Test" />
+      <item index="1" class="java.lang.String" itemvalue="Application.TestConstructor" />
+      <item index="2" class="java.lang.String" itemvalue="Application.Test (1)" />
+      <item index="3" class="java.lang.String" itemvalue="Application.TestObject" />
+      <item index="4" class="java.lang.String" itemvalue="Application.GameFrame" />
+    </list>
+    <recent_temporary>
+      <list size="5">
+        <item index="0" class="java.lang.String" itemvalue="Application.GameFrame" />
+        <item index="1" class="java.lang.String" itemvalue="Application.TestObject" />
+        <item index="2" class="java.lang.String" itemvalue="Application.Test (1)" />
+        <item index="3" class="java.lang.String" itemvalue="Application.TestConstructor" />
+        <item index="4" class="java.lang.String" itemvalue="Application.Test" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="StructureViewFactory">
+    <option name="AUTOSCROLL_MODE" value="false" />
+    <option name="AUTOSCROLL_FROM_SOURCE" value="true" />
+    <option name="ACTIVE_ACTIONS" value=",ALPHA_COMPARATOR,SHOW_ANONYMOUS,SHOW_INHERITED" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4c292b54-89c4-478a-8d69-c6a01e89e107" name="Default" comment="" />
+      <created>1476674390795</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1476674390795</updated>
+      <workItem from="1476674393209" duration="3291000" />
+      <workItem from="1476687643746" duration="10523000" />
+      <workItem from="1476755526938" duration="15723000" />
+      <workItem from="1476842802934" duration="16925000" />
+      <workItem from="1476900629077" duration="735000" />
+      <workItem from="1476932306866" duration="9996000" />
+      <workItem from="1477212074612" duration="7531000" />
+      <workItem from="1477232839547" duration="3063000" />
+      <workItem from="1477275233827" duration="13049000" />
+    </task>
+    <task id="LOCAL-00001" summary="string">
+      <created>1476675865309</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1476675865309</updated>
+    </task>
+    <task id="LOCAL-00002" summary="string add some functions">
+      <created>1476695377449</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1476695377449</updated>
+    </task>
+    <task id="LOCAL-00003" summary="ideaj使用">
+      <created>1476757318853</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1476757318853</updated>
+    </task>
+    <task id="LOCAL-00004" summary="stringBuilder">
+      <created>1476758250934</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1476758250934</updated>
+    </task>
+    <task id="LOCAL-00005" summary="模拟容器">
+      <created>1476761847804</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1476761847804</updated>
+    </task>
+    <task id="LOCAL-00006" summary="MyArrayList stimulate source code">
+      <created>1476782453294</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1476782453294</updated>
+    </task>
+    <task id="LOCAL-00007" summary="matrix array">
+      <created>1476784201422</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1476784201422</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Arrays">
+      <created>1476869549992</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1476869549992</updated>
+    </task>
+    <task id="LOCAL-00009" summary="测试包装类">
+      <created>1476951708848</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1476951708848</updated>
+    </task>
+    <task id="LOCAL-00010" summary="测试自动装箱和拆箱">
+      <created>1476954265832</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1476954265832</updated>
+    </task>
+    <task id="LOCAL-00011" summary="Date Class">
+      <created>1476956160476</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1476956160476</updated>
+    </task>
+    <task id="LOCAL-00012" summary="FileTree">
+      <created>1477232872144</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1477232872144</updated>
+    </task>
+    <task id="LOCAL-00013" summary="readFile">
+      <created>1477280283771</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1477280283771</updated>
+    </task>
+    <task id="LOCAL-00014" summary="game Frame class">
+      <created>1477296765427</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1477296765427</updated>
+    </task>
+    <task id="LOCAL-00015" summary="game Frame class">
+      <created>1477297171997</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1477297171997</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="80836000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="60" y="39" width="1717" height="1048" extended-state="0" />
+    <editor active="false" />
+    <layout>
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32894737" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.28929606" sideWeight="0.50213903" order="11" side_tool="true" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32941177" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32785088" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2510965" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3739035" sideWeight="0.49786097" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.21415716" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.329934" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.18716256" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24955009" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3366228" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.17593583" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Documentation" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="FLOATING" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" x="74" y="148" width="1720" height="973" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+      <collection />
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="string" />
+    <MESSAGE value="string add some functions" />
+    <MESSAGE value="ideaj使用" />
+    <MESSAGE value="stringBuilder" />
+    <MESSAGE value="模拟容器" />
+    <MESSAGE value="MyArrayList stimulate source code" />
+    <MESSAGE value="matrix array" />
+    <MESSAGE value="Arrays" />
+    <MESSAGE value="测试包装类" />
+    <MESSAGE value="测试自动装箱和拆箱" />
+    <MESSAGE value="Date Class" />
+    <MESSAGE value="FileTree" />
+    <MESSAGE value="readFile" />
+    <MESSAGE value="game Frame class" />
+    <option name="LAST_COMMIT_MESSAGE" value="game Frame class" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/testString/test01.java</url>
+          <line>31</line>
+          <properties />
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/polymophism/Test.java</url>
+          <line>37</line>
+          <properties />
+          <option name="timeStamp" value="22" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/polymophism/Test.java</url>
+          <line>27</line>
+          <properties />
+          <option name="timeStamp" value="23" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/polymophism/Test.java</url>
+          <line>39</line>
+          <properties />
+          <option name="timeStamp" value="24" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/polymophism/Test.java</url>
+          <line>40</line>
+          <properties />
+          <option name="timeStamp" value="25" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/polymophism/Test.java</url>
+          <line>43</line>
+          <properties />
+          <option name="timeStamp" value="26" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/polymophism/Test.java</url>
+          <line>42</line>
+          <properties />
+          <option name="timeStamp" value="27" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/abstractClass/Test.java</url>
+          <line>9</line>
+          <properties />
+          <option name="timeStamp" value="31" />
+        </line-breakpoint>
+      </breakpoints>
+      <option name="time" value="37" />
+    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="Application">
+        <watch expression="this" language="JAVA" custom="" />
+        <watch expression="c" language="JAVA" custom="" />
+        <watch expression="c2" language="JAVA" custom="" />
+      </configuration>
+    </watches-manager>
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="jar:///usr/local/java/jdk1.8.0_91/src.zip!/java/util/Date.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="151">
+          <caret line="338" column="0" selection-start-line="338" selection-start-column="0" selection-end-line="338" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/testDate/VisualCalendar.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="14" column="13" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///usr/local/java/jdk1.8.0_91/src.zip!/java/lang/System.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="302">
+          <caret line="352" column="50" selection-start-line="352" selection-start-column="50" selection-end-line="352" selection-end-column="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///usr/local/java/jdk1.8.0_91/src.zip!/java/sql/Timestamp.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="194">
+          <caret line="432" column="19" selection-start-line="432" selection-start-column="19" selection-end-line="432" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/testDate/TestDate.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="15" column="0" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/testDate/TestFile.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="11" column="86" selection-start-line="11" selection-start-column="27" selection-end-line="11" selection-end-column="86" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/testDate/FileTree.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="396">
+          <caret line="22" column="27" selection-start-line="22" selection-start-column="27" selection-end-line="22" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/testString/test01.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="468">
+          <caret line="26" column="37" selection-start-line="26" selection-start-column="37" selection-end-line="26" selection-end-column="37" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/testArray/test01.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="702">
+          <caret line="39" column="4" selection-start-line="39" selection-start-column="4" selection-end-line="39" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/testArray/test02.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="648">
+          <caret line="36" column="32" selection-start-line="36" selection-start-column="32" selection-end-line="36" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/testArray/Car.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="8" column="11" selection-start-line="8" selection-start-column="11" selection-end-line="8" selection-end-column="11" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/exception/TestException.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="432">
+          <caret line="24" column="6" selection-start-line="24" selection-start-column="6" selection-end-line="24" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/testStringBuilder/test01.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="17" column="18" selection-start-line="17" selection-start-column="18" selection-end-line="17" selection-end-column="18" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/multiArray/Matrix.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="756">
+          <caret line="42" column="22" selection-start-line="42" selection-start-column="22" selection-end-line="42" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/multiArray/test01.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="486">
+          <caret line="27" column="20" selection-start-line="27" selection-start-column="20" selection-end-line="27" selection-end-column="20" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/exception/TestTryCatch.java" />
+    <entry file="file://$PROJECT_DIR$/src/multiArray/testArray.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="324">
+          <caret line="19" column="36" selection-start-line="19" selection-start-column="36" selection-end-line="19" selection-end-column="36" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://JAVA/java.io.FileReader">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JAVA</ID>
+          <OriginalElement>java.io.FileReader</OriginalElement>
+          <nodes>
+            <node x="119.0" y="82.0">java.io.Closeable</node>
+            <node x="0.0" y="82.0">java.lang.Readable</node>
+            <node x="68.25" y="164.0">java.io.Reader</node>
+            <node x="55.75" y="328.0">java.io.FileReader</node>
+            <node x="24.25" y="246.0">java.io.InputStreamReader</node>
+            <node x="102.5" y="0.0">java.lang.AutoCloseable</node>
+          </nodes>
+          <notes />
+          <edges>
+            <edge source="java.io.Reader" target="java.io.Closeable">
+              <point x="20.75" y="-16.0" />
+              <point x="130.5" y="139.0" />
+              <point x="170.0" y="139.0" />
+              <point x="0.0" y="16.0" />
+            </edge>
+            <edge source="java.io.Reader" target="java.lang.Readable">
+              <point x="-20.75" y="-16.0" />
+              <point x="89.0" y="139.0" />
+              <point x="49.5" y="139.0" />
+              <point x="0.0" y="16.0" />
+            </edge>
+            <edge source="java.io.InputStreamReader" target="java.io.Reader">
+              <point x="0.0" y="-16.0" />
+              <point x="0.0" y="16.0" />
+            </edge>
+            <edge source="java.io.FileReader" target="java.io.InputStreamReader">
+              <point x="0.0" y="-16.0" />
+              <point x="0.0" y="16.0" />
+            </edge>
+            <edge source="java.io.Closeable" target="java.lang.AutoCloseable">
+              <point x="0.0" y="-16.0" />
+              <point x="0.0" y="16.0" />
+            </edge>
+          </edges>
+          <settings layout="Hierarchic Group" zoom="1.0" x="-317.0" y="-7.0" />
+          <SelectedNodes />
+          <Categories />
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>private</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///usr/local/java/jdk1.8.0_91/src.zip!/java/io/FileReader.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="378">
+          <caret line="44" column="39" selection-start-line="44" selection-start-column="39" selection-end-line="44" selection-end-column="39" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///usr/local/java/jdk1.8.0_91/src.zip!/java/io/InputStreamReader.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2502">
+          <caret line="166" column="15" selection-start-line="166" selection-start-column="15" selection-end-line="166" selection-end-column="15" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/exception/TestReadFile.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="17" column="46" selection-start-line="17" selection-start-column="46" selection-end-line="17" selection-end-column="46" />
+          <folding>
+            <element signature="imports" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/exception/TestReadFile1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="342">
+          <caret line="19" column="30" selection-start-line="19" selection-start-column="30" selection-end-line="19" selection-end-column="30" />
+          <folding>
+            <element signature="imports" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/exception/TestReadFileSequ.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="20" column="0" selection-start-line="20" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/abstractClass/Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/abstractClass/Animal.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="342">
+          <caret line="21" column="6" selection-start-line="21" selection-start-column="6" selection-end-line="21" selection-end-column="6" />
+          <folding>
+            <element signature="e#201#202#0" expanded="false" />
+            <element signature="e#241#242#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/callback/MyFrame.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="7" column="22" selection-start-line="7" selection-start-column="22" selection-end-line="7" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/callback/PaintFrame.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="54">
+          <caret line="39" column="9" selection-start-line="39" selection-start-column="9" selection-end-line="39" selection-end-column="10" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cn/hzq/Car.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+          <folding>
+            <element signature="e#124#125#0" expanded="false" />
+            <element signature="e#167#168#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cn/hzq/Point.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///usr/local/java/jdk1.8.0_91/src.zip!/java/lang/String.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="259">
+          <caret line="975" column="19" selection-start-line="975" selection-start-column="19" selection-end-line="975" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cn/hzq/Student.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cn/hzq/Computer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cn/hzq/Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="396">
+          <caret line="22" column="35" selection-start-line="22" selection-start-column="35" selection-end-line="22" selection-end-column="35" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cn/hzq/TestConstructor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="7" column="23" selection-start-line="7" selection-start-column="23" selection-end-line="7" selection-end-column="23" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cn/hzq/TestStatic.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="324">
+          <caret line="18" column="40" selection-start-line="18" selection-start-column="40" selection-end-line="18" selection-end-column="40" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cn/oop/hzq/testObject/Mobile.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cn/hzq/TestOverload.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="19" column="5" selection-start-line="19" selection-start-column="5" selection-end-line="19" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cn/oop/hzq/testObject/TestObject.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="15" column="0" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///usr/local/java/jdk1.8.0_91/src.zip!/java/awt/Frame.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="134" column="31" selection-start-line="134" selection-start-column="31" selection-end-line="134" selection-end-column="31" />
+          <folding>
+            <element signature="docComment;class#Frame#0" expanded="false" />
+            <element signature="docComment;field#DEFAULT_CURSOR#0;class#Frame#0" expanded="false" />
+            <element signature="docComment;field#CROSSHAIR_CURSOR#0;class#Frame#0" expanded="false" />
+            <element signature="docComment;field#TEXT_CURSOR#0;class#Frame#0" expanded="false" />
+            <element signature="docComment;field#WAIT_CURSOR#0;class#Frame#0" expanded="false" />
+            <element signature="docComment;field#SW_RESIZE_CURSOR#0;class#Frame#0" expanded="false" />
+            <element signature="docComment;field#SE_RESIZE_CURSOR#0;class#Frame#0" expanded="false" />
+            <element signature="docComment;field#NW_RESIZE_CURSOR#0;class#Frame#0" expanded="false" />
+            <element signature="docComment;field#NE_RESIZE_CURSOR#0;class#Frame#0" expanded="false" />
+            <element signature="docComment;field#N_RESIZE_CURSOR#0;class#Frame#0" expanded="false" />
+            <element signature="docComment;field#S_RESIZE_CURSOR#0;class#Frame#0" expanded="false" />
+            <element signature="docComment;field#W_RESIZE_CURSOR#0;class#Frame#0" expanded="false" />
+            <element signature="docComment;field#E_RESIZE_CURSOR#0;class#Frame#0" expanded="false" />
+            <element signature="docComment;field#HAND_CURSOR#0;class#Frame#0" expanded="false" />
+            <element signature="docComment;field#MOVE_CURSOR#0;class#Frame#0" expanded="false" />
+            <element signature="docComment;field#NORMAL#0;class#Frame#0" expanded="false" />
+            <element signature="docComment;field#ICONIFIED#0;class#Frame#0" expanded="false" />
+            <element signature="docComment;field#MAXIMIZED_HORIZ#0;class#Frame#0" expanded="false" />
+            <element signature="docComment;field#MAXIMIZED_VERT#0;class#Frame#0" expanded="false" />
+            <element signature="docComment;field#MAXIMIZED_BOTH#0;class#Frame#0" expanded="false" />
+            <element signature="docComment;field#maximizedBounds#0;class#Frame#0" expanded="false" />
+            <element signature="docComment;field#title#0;class#Frame#0" expanded="false" />
+            <element signature="docComment;field#menuBar#0;class#Frame#0" expanded="false" />
+            <element signature="docComment;field#resizable#0;class#Frame#0" expanded="false" />
+            <element signature="docComment;field#undecorated#0;class#Frame#0" expanded="false" />
+            <element signature="docComment;field#mbManagement#0;class#Frame#0" expanded="false" />
+            <element signature="initializer##0;class#Frame#0" expanded="false" />
+            <element signature="docComment;method#Frame#0;class#Frame#0" expanded="false" />
+            <element signature="method#Frame#0;class#Frame#0" expanded="false" />
+            <element signature="docComment;method#Frame#1;class#Frame#0" expanded="false" />
+            <element signature="docComment;method#Frame#2;class#Frame#0" expanded="false" />
+            <element signature="method#Frame#2;class#Frame#0" expanded="false" />
+            <element signature="docComment;method#Frame#3;class#Frame#0" expanded="false" />
+            <element signature="method#Frame#3;class#Frame#0" expanded="false" />
+            <element signature="method#init#0;class#Frame#0" expanded="false" />
+            <element signature="docComment;method#constructComponentName#0;class#Frame#0" expanded="false" />
+            <element signature="method#constructComponentName#0;class#Frame#0" expanded="false" />
+            <element signature="docComment;method#addNotify#0;class#Frame#0" expanded="false" />
+            <element signature="method#addNotify#0;class#Frame#0" expanded="false" />
+            <element signature="docComment;method#getTitle#0;class#Frame#0" expanded="false" />
+            <element signature="docComment;method#setTitle#0;class#Frame#0" expanded="false" />
+            <element signature="method#setTitle#0;class#Frame#0" expanded="false" />
+            <element signature="docComment;method#getIconImage#0;class#Frame#0" expanded="false" />
+            <element signature="method#getIconImage#0;class#Frame#0" expanded="false" />
+            <element signature="docComment;method#setIconImage#0;class#Frame#0" expanded="false" />
+            <element signature="docComment;method#getMenuBar#0;class#Frame#0" expanded="false" />
+            <element signature="docComment;method#setMenuBar#0;class#Frame#0" expanded="false" />
+            <element signature="method#setMenuBar#0;class#Frame#0" expanded="false" />
+            <element signature="docComment;method#isResizable#0;class#Frame#0" expanded="false" />
+            <element signature="docComment;method#setResizable#0;class#Frame#0" expanded="false" />
+            <element signature="method#setResizable#0;class#Frame#0" expanded="false" />
+            <element signature="e#20509#20567#0" expanded="false" />
+            <element signature="docComment;method#setState#0;class#Frame#0" expanded="false" />
+            <element signature="method#setState#0;class#Frame#0" expanded="false" />
+            <element signature="docComment;method#setExtendedState#0;class#Frame#0" expanded="false" />
+            <element signature="method#setExtendedState#0;class#Frame#0" expanded="false" />
+            <element signature="e#25471#25525#0" expanded="false" />
+            <element signature="method#isFrameStateSupported#0;class#Frame#0" expanded="false" />
+            <element signature="e#25839#25894#0" expanded="false" />
+            <element signature="docComment;method#getState#0;class#Frame#0" expanded="false" />
+            <element signature="docComment;method#getExtendedState#0;class#Frame#0" expanded="false" />
+            <element signature="method#getExtendedState#0;class#Frame#0" expanded="false" />
+            <element signature="initializer##1;class#Frame#0" expanded="false" />
+            <element signature="class#27993:28670" expanded="false" />
+            <element signature="method#setExtendedState#0;class#27993:28670" expanded="false" />
+            <element signature="method#getExtendedState#0;class#27993:28670" expanded="false" />
+            <element signature="method#getMaximizedBounds#0;class#27993:28670" expanded="false" />
+            <element signature="docComment;method#setMaximizedBounds#0;class#Frame#0" expanded="false" />
+            <element signature="method#setMaximizedBounds#0;class#Frame#0" expanded="false" />
+            <element signature="docComment;method#getMaximizedBounds#0;class#Frame#0" expanded="false" />
+            <element signature="method#getMaximizedBounds#0;class#Frame#0" expanded="false" />
+            <element signature="docComment;method#setUndecorated#0;class#Frame#0" expanded="false" />
+            <element signature="method#setUndecorated#0;class#Frame#0" expanded="false" />
+            <element signature="docComment;method#isUndecorated#0;class#Frame#0" expanded="false" />
+            <element signature="docComment;method#setOpacity#0;class#Frame#0" expanded="false" />
+            <element signature="method#setOpacity#0;class#Frame#0" expanded="false" />
+            <element signature="docComment;method#setShape#0;class#Frame#0" expanded="false" />
+            <element signature="method#setShape#0;class#Frame#0" expanded="false" />
+            <element signature="docComment;method#setBackground#0;class#Frame#0" expanded="false" />
+            <element signature="method#setBackground#0;class#Frame#0" expanded="false" />
+            <element signature="docComment;method#remove#0;class#Frame#0" expanded="false" />
+            <element signature="method#remove#0;class#Frame#0" expanded="false" />
+            <element signature="docComment;method#removeNotify#0;class#Frame#0" expanded="false" />
+            <element signature="method#removeNotify#0;class#Frame#0" expanded="false" />
+            <element signature="method#postProcessKeyEvent#0;class#Frame#0" expanded="false" />
+            <element signature="docComment;method#paramString#0;class#Frame#0" expanded="false" />
+            <element signature="method#paramString#0;class#Frame#0" expanded="false" />
+            <element signature="docComment;method#setCursor#0;class#Frame#0" expanded="false" />
+            <element signature="method#setCursor#0;class#Frame#0" expanded="false" />
+            <element signature="docComment;method#getCursorType#0;class#Frame#0" expanded="false" />
+            <element signature="docComment;method#getFrames#0;class#Frame#0" expanded="false" />
+            <element signature="method#getFrames#0;class#Frame#0" expanded="false" />
+            <element signature="docComment;field#frameSerializedDataVersion#0;class#Frame#0" expanded="false" />
+            <element signature="docComment;method#writeObject#0;class#Frame#0" expanded="false" />
+            <element signature="method#writeObject#0;class#Frame#0" expanded="false" />
+            <element signature="docComment;method#readObject#0;class#Frame#0" expanded="false" />
+            <element signature="method#readObject#0;class#Frame#0" expanded="false" />
+            <element signature="e#41885#41939#0" expanded="false" />
+            <element signature="e#42379#42429#0" expanded="false" />
+            <element signature="docComment;method#initIDs#0;class#Frame#0" expanded="false" />
+            <element signature="docComment;method#getAccessibleContext#0;class#Frame#0" expanded="false" />
+            <element signature="method#getAccessibleContext#0;class#Frame#0" expanded="false" />
+            <element signature="docComment;class#AccessibleAWTFrame#0;class#Frame#0" expanded="false" />
+            <element signature="class#AccessibleAWTFrame#0;class#Frame#0" expanded="false" />
+            <element signature="docComment;method#getAccessibleRole#0;class#AccessibleAWTFrame#0;class#Frame#0" expanded="false" />
+            <element signature="docComment;method#getAccessibleStateSet#0;class#AccessibleAWTFrame#0;class#Frame#0" expanded="false" />
+            <element signature="method#getAccessibleStateSet#0;class#AccessibleAWTFrame#0;class#Frame#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///usr/local/java/jdk1.8.0_91/src.zip!/java/awt/Window.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="147" column="52" selection-start-line="147" selection-start-column="52" selection-end-line="147" selection-end-column="52" />
+          <folding>
+            <element signature="docComment;class#Window#0" expanded="false" />
+            <element signature="class#Window#0" expanded="false" />
+            <element signature="docComment;class#Type#0;class#Window#0" expanded="false" />
+            <element signature="class#Type#0;class#Window#0" expanded="false" />
+            <element signature="docComment;field#NORMAL#0;class#Type#0;class#Window#0" expanded="false" />
+            <element signature="docComment;field#UTILITY#0;class#Type#0;class#Window#0" expanded="false" />
+            <element signature="docComment;field#POPUP#0;class#Type#0;class#Window#0" expanded="false" />
+            <element signature="docComment;field#warningString#0;class#Window#0" expanded="false" />
+            <element signature="docComment;field#icons#0;class#Window#0" expanded="false" />
+            <element signature="docComment;field#temporaryLostComponent#0;class#Window#0" expanded="false" />
+            <element signature="docComment;field#state#0;class#Window#0" expanded="false" />
+            <element signature="docComment;field#alwaysOnTop#0;class#Window#0" expanded="false" />
+            <element signature="docComment;field#allWindows#0;class#Window#0" expanded="false" />
+            <element signature="docComment;field#ownedWindowList#0;class#Window#0" expanded="false" />
+            <element signature="docComment;field#modalBlocker#0;class#Window#0" expanded="false" />
+            <element signature="docComment;field#modalExclusionType#0;class#Window#0" expanded="false" />
+            <element signature="docComment;field#focusMgr#0;class#Window#0" expanded="false" />
+            <element signature="docComment;field#focusableWindowState#0;class#Window#0" expanded="false" />
+            <element signature="docComment;field#autoRequestFocus#0;class#Window#0" expanded="false" />
+            <element signature="docComment;field#opacity#0;class#Window#0" expanded="false" />
+            <element signature="docComment;field#shape#0;class#Window#0" expanded="false" />
+            <element signature="docComment;field#securityWarningWidth#0;class#Window#0" expanded="false" />
+            <element signature="docComment;field#securityWarningPointX#0;class#Window#0" expanded="false" />
+            <element signature="initializer##0;class#Window#0" expanded="false" />
+            <element signature="docComment;method#initIDs#0;class#Window#0" expanded="false" />
+            <element signature="docComment;method#Window#0;class#Window#0" expanded="false" />
+            <element signature="class#WindowDisposerRecord#0;class#Window#0" expanded="false" />
+            <element signature="method#WindowDisposerRecord#0;class#WindowDisposerRecord#0;class#Window#0" expanded="false" />
+            <element signature="method#updateOwner#0;class#WindowDisposerRecord#0;class#Window#0" expanded="false" />
+            <element signature="method#dispose#0;class#WindowDisposerRecord#0;class#Window#0" expanded="false" />
+            <element signature="method#initGC#0;class#Window#0" expanded="false" />
+            <element signature="method#init#0;class#Window#0" expanded="false" />
+            <element signature="docComment;method#Window#1;class#Window#0" expanded="false" />
+            <element signature="method#Window#1;class#Window#0" expanded="false" />
+            <element signature="docComment;method#Window#2;class#Window#0" expanded="false" />
+            <element signature="method#Window#2;class#Window#0" expanded="false" />
+            <element signature="docComment;method#Window#3;class#Window#0" expanded="false" />
+            <element signature="method#Window#3;class#Window#0" expanded="false" />
+            <element signature="docComment;method#Window#4;class#Window#0" expanded="false" />
+            <element signature="method#Window#4;class#Window#0" expanded="false" />
+            <element signature="method#ownedInit#0;class#Window#0" expanded="false" />
+            <element signature="docComment;method#constructComponentName#0;class#Window#0" expanded="false" />
+            <element signature="method#constructComponentName#0;class#Window#0" expanded="false" />
+            <element signature="docComment;method#getIconImages#0;class#Window#0" expanded="false" />
+            <element signature="method#getIconImages#0;class#Window#0" expanded="false" />
+            <element signature="docComment;method#setIconImages#0;class#Window#0" expanded="false" />
+            <element signature="method#setIconImages#0;class#Window#0" expanded="false" />
+            <element signature="docComment;method#setIconImage#0;class#Window#0" expanded="false" />
+            <element signature="method#setIconImage#0;class#Window#0" expanded="false" />
+            <element signature="docComment;method#addNotify#0;class#Window#0" expanded="false" />
+            <element signature="method#addNotify#0;class#Window#0" expanded="false" />
+            <element signature="docComment;method#removeNotify#0;class#Window#0" expanded="false" />
+            <element signature="method#removeNotify#0;class#Window#0" expanded="false" />
+            <element signature="docComment;method#pack#0;class#Window#0" expanded="false" />
+            <element signature="method#pack#0;class#Window#0" expanded="false" />
+            <element signature="docComment;method#setMinimumSize#0;class#Window#0" expanded="false" />
+            <element signature="method#setMinimumSize#0;class#Window#0" expanded="false" />
+            <element signature="docComment;method#setSize#0;class#Window#0" expanded="false" />
+            <element signature="docComment;method#setSize#1;class#Window#0" expanded="false" />
+            <element signature="docComment;method#setLocation#0;class#Window#0" expanded="false" />
+            <element signature="docComment;method#setLocation#1;class#Window#0" expanded="false" />
+            <element signature="docComment;method#reshape#0;class#Window#0" expanded="false" />
+            <element signature="method#reshape#0;class#Window#0" expanded="false" />
+            <element signature="method#setClientSize#0;class#Window#0" expanded="false" />
+            <element signature="method#closeSplashScreen#0;class#Window#0" expanded="false" />
+            <element signature="e#33318#33387#0" expanded="false" />
+            <element signature="docComment;method#setVisible#0;class#Window#0" expanded="false" />
+            <element signature="docComment;method#show#0;class#Window#0" expanded="false" />
+            <element signature="method#show#0;class#Window#0" expanded="false" />
+            <element signature="e#36868#36927#0" expanded="false" />
+            <element signature="method#updateChildFocusableWindowState#0;class#Window#0" expanded="false" />
+            <element signature="method#postWindowEvent#0;class#Window#0" expanded="false" />
+            <element signature="docComment;method#hide#0;class#Window#0" expanded="false" />
+            <element signature="method#hide#0;class#Window#0" expanded="false" />
+            <element signature="method#clearMostRecentFocusOwnerOnHide#0;class#Window#0" expanded="false" />
+            <element signature="docComment;method#dispose#0;class#Window#0" expanded="false" />
+            <element signature="method#disposeImpl#0;class#Window#0" expanded="false" />
+            <element signature="method#doDispose#0;class#Window#0" expanded="false" />
+            <element signature="class#40821:42381" expanded="false" />
+            <element signature="method#run#0;class#40821:42381" expanded="false" />
+            <element signature="e#40955#41011#0" expanded="false" />
+            <element signature="e#43021#43079#0" expanded="false" />
+            <element signature="method#adjustListeningChildrenOnParent#0;class#Window#0" expanded="false" />
+            <element signature="method#adjustDecendantsOnParent#0;class#Window#0" expanded="false" />
+            <element signature="e#43661#43713#0" expanded="false" />
+            <element signature="docComment;method#toFront#0;class#Window#0" expanded="false" />
+            <element signature="method#toFront_NoClientCode#0;class#Window#0" expanded="false" />
+            <element signature="docComment;method#toBack#0;class#Window#0" expanded="false" />
+            <element signature="method#toBack_NoClientCode#0;class#Window#0" expanded="false" />
+            <element signature="docComment;method#getToolkit#0;class#Window#0" expanded="false" />
+            <element signature="docComment;method#getWarningString#0;class#Window#0" expanded="false" />
+            <element signature="method#setWarningString#0;class#Window#0" expanded="false" />
+            <element signature="e#50026#50068#0" expanded="false" />
+            <element signature="docComment;method#getLocale#0;class#Window#0" expanded="false" />
+            <element signature="method#getLocale#0;class#Window#0" expanded="false" />
+            <element signature="docComment;method#getInputContext#0;class#Window#0" expanded="false" />
+            <element signature="method#getInputContext#0;class#Window#0" expanded="false" />
+            <element signature="docComment;method#setCursor#0;class#Window#0" expanded="false" />
+            <element signature="method#setCursor#0;class#Window#0" expanded="false" />
+            <element signature="docComment;method#getOwner#0;class#Window#0" expanded="false" />
+            <element signature="docComment;method#getOwnedWindows#0;class#Window#0" expanded="false" />
+            <element signature="method#getOwnedWindows_NoClientCode#0;class#Window#0" expanded="false" />
+            <element signature="e#52715#52769#0" expanded="false" />
+            <element signature="method#setModalBlocked#0;class#Window#0" expanded="false" />
+            <element signature="method#getAllWindows#0;class#Window#0" expanded="false" />
+            <element signature="method#getAllUnblockedWindows#0;class#Window#0" expanded="false" />
+            <element signature="method#getWindows#0;class#Window#0" expanded="false" />
+            <element signature="docComment;method#getWindows#1;class#Window#0" expanded="false" />
+            <element signature="docComment;method#getOwnerlessWindows#0;class#Window#0" expanded="false" />
+            <element signature="method#getOwnerlessWindows#0;class#Window#0" expanded="false" />
+            <element signature="method#getDocumentRoot#0;class#Window#0" expanded="false" />
+            <element signature="docComment;method#setModalExclusionType#0;class#Window#0" expanded="false" />
+            <element signature="method#setModalExclusionType#0;class#Window#0" expanded="false" />
+            <element signature="e#60106#60172#0" expanded="false" />
+            <element signature="docComment;method#getModalExclusionType#0;class#Window#0" expanded="false" />
+            <element signature="method#isModalExcluded#0;class#Window#0" expanded="false" />
+            <element signature="method#updateChildrenBlocking#0;class#Window#0" expanded="false" />
+            <element signature="docComment;method#addWindowListener#0;class#Window#0" expanded="false" />
+            <element signature="method#addWindowListener#0;class#Window#0" expanded="false" />
+            <element signature="docComment;method#addWindowStateListener#0;class#Window#0" expanded="false" />
+            <element signature="method#addWindowStateListener#0;class#Window#0" expanded="false" />
+            <element signature="docComment;method#addWindowFocusListener#0;class#Window#0" expanded="false" />
+            <element signature="method#addWindowFocusListener#0;class#Window#0" expanded="false" />
+            <element signature="docComment;method#removeWindowListener#0;class#Window#0" expanded="false" />
+            <element signature="method#removeWindowListener#0;class#Window#0" expanded="false" />
+            <element signature="docComment;method#removeWindowStateListener#0;class#Window#0" expanded="false" />
+            <element signature="method#removeWindowStateListener#0;class#Window#0" expanded="false" />
+            <element signature="docComment;method#removeWindowFocusListener#0;class#Window#0" expanded="false" />
+            <element signature="method#removeWindowFocusListener#0;class#Window#0" expanded="false" />
+            <element signature="docComment;method#getWindowListeners#0;class#Window#0" expanded="false" />
+            <element signature="docComment;method#getWindowFocusListeners#0;class#Window#0" expanded="false" />
+            <element signature="method#getWindowFocusListeners#0;class#Window#0" expanded="false" />
+            <element signature="docComment;method#getWindowStateListeners#0;class#Window#0" expanded="false" />
+            <element signature="method#getWindowStateListeners#0;class#Window#0" expanded="false" />
+            <element signature="docComment;method#getListeners#0;class#Window#0" expanded="false" />
+            <element signature="method#getListeners#0;class#Window#0" expanded="false" />
+            <element signature="method#eventEnabled#0;class#Window#0" expanded="false" />
+            <element signature="docComment;method#processEvent#0;class#Window#0" expanded="false" />
+            <element signature="method#processEvent#0;class#Window#0" expanded="false" />
+            <element signature="docComment;method#processWindowEvent#0;class#Window#0" expanded="false" />
+            <element signature="method#processWindowEvent#0;class#Window#0" expanded="false" />
+            <element signature="docComment;method#processWindowFocusEvent#0;class#Window#0" expanded="false" />
+            <element signature="method#processWindowFocusEvent#0;class#Window#0" expanded="false" />
+            <element signature="docComment;method#processWindowStateEvent#0;class#Window#0" expanded="false" />
+            <element signature="method#processWindowStateEvent#0;class#Window#0" expanded="false" />
+            <element signature="docComment;method#preProcessKeyEvent#0;class#Window#0" expanded="false" />
+            <element signature="method#preProcessKeyEvent#0;class#Window#0" expanded="false" />
+            <element signature="method#postProcessKeyEvent#0;class#Window#0" expanded="false" />
+            <element signature="docComment;method#setAlwaysOnTop#0;class#Window#0" expanded="false" />
+            <element signature="method#setAlwaysOnTop#0;class#Window#0" expanded="false" />
+            <element signature="method#setOwnedWindowsAlwaysOnTop#0;class#Window#0" expanded="false" />
+            <element signature="docComment;method#isAlwaysOnTopSupported#0;class#Window#0" expanded="false" />
+            <element signature="docComment;method#isAlwaysOnTop#0;class#Window#0" expanded="false" />
+            <element signature="docComment;method#getFocusOwner#0;class#Window#0" expanded="false" />
+            <element signature="method#getFocusOwner#0;class#Window#0" expanded="false" />
+            <element signature="docComment;method#getMostRecentFocusOwner#0;class#Window#0" expanded="false" />
+            <element signature="method#getMostRecentFocusOwner#0;class#Window#0" expanded="false" />
+            <element signature="docComment;method#isActive#0;class#Window#0" expanded="false" />
+            <element signature="method#isActive#0;class#Window#0" expanded="false" />
+            <element signature="docComment;method#isFocused#0;class#Window#0" expanded="false" />
+            <element signature="method#isFocused#0;class#Window#0" expanded="false" />
+            <element signature="docComment;method#getFocusTraversalKeys#0;class#Window#0" expanded="false" />
+            <element signature="method#getFocusTraversalKeys#0;class#Window#0" expanded="false" />
+            <element signature="docComment;method#setFocusCycleRoot#0;class#Window#0" expanded="false" />
+            <element signature="method#setFocusCycleRoot#0;class#Window#0" expanded="false" />
+            <element signature="docComment;method#isFocusCycleRoot#0;class#Window#0" expanded="false" />
+            <element signature="docComment;method#getFocusCycleRootAncestor#0;class#Window#0" expanded="false" />
+            <element signature="docComment;method#isFocusableWindow#0;class#Window#0" expanded="false" />
+            <element signature="method#isFocusableWindow#0;class#Window#0" expanded="false" />
+            <element signature="e#90357#90426#0" expanded="false" />
+            <element signature="e#90689#90751#0" expanded="false" />
+            <element signature="e#90916#90983#0" expanded="false" />
+            <element signature="docComment;method#getFocusableWindowState#0;class#Window#0" expanded="false" />
+            <element signature="docComment;method#setFocusableWindowState#0;class#Window#0" expanded="false" />
+            <element signature="method#setFocusableWindowState#0;class#Window#0" expanded="false" />
+            <element signature="docComment;method#setAutoRequestFocus#0;class#Window#0" expanded="false" />
+            <element signature="docComment;method#isAutoRequestFocus#0;class#Window#0" expanded="false" />
+            <element signature="docComment;method#addPropertyChangeListener#0;class#Window#0" expanded="false" />
+            <element signature="method#addPropertyChangeListener#0;class#Window#0" expanded="false" />
+            <element signature="docComment;method#addPropertyChangeListener#1;class#Window#0" expanded="false" />
+            <element signature="method#addPropertyChangeListener#1;class#Window#0" expanded="false" />
+            <element signature="docComment;method#isValidateRoot#0;class#Window#0" expanded="false" />
+            <element signature="docComment;method#dispatchEventImpl#0;class#Window#0" expanded="false" />
+            <element signature="method#dispatchEventImpl#0;class#Window#0" expanded="false" />
+            <element signature="docComment;method#postEvent#0;class#Window#0" expanded="false" />
+            <element signature="method#postEvent#0;class#Window#0" expanded="false" />
+            <element signature="docComment;method#isShowing#0;class#Window#0" expanded="false" />
+            <element signature="docComment;method#applyResourceBundle#0;class#Window#0" expanded="false" />
+            <element signature="method#applyResourceBundle#0;class#Window#0" expanded="false" />
+            <element signature="docComment;method#applyResourceBundle#1;class#Window#0" expanded="false" />
+            <element signature="method#addOwnedWindow#0;class#Window#0" expanded="false" />
+            <element signature="e#102283#102344#0" expanded="false" />
+            <element signature="method#removeOwnedWindow#0;class#Window#0" expanded="false" />
+            <element signature="e#102659#102716#0" expanded="false" />
+            <element signature="method#connectOwnedWindow#0;class#Window#0" expanded="false" />
+            <element signature="method#addToWindowList#0;class#Window#0" expanded="false" />
+            <element signature="method#removeFromWindowList#0;class#Window#0" expanded="false" />
+            <element signature="docComment;field#type#0;class#Window#0" expanded="false" />
+            <element signature="docComment;method#setType#0;class#Window#0" expanded="false" />
+            <element signature="method#setType#0;class#Window#0" expanded="false" />
+            <element signature="docComment;method#getType#0;class#Window#0" expanded="false" />
+            <element signature="method#getType#0;class#Window#0" expanded="false" />
+            <element signature="docComment;field#windowSerializedDataVersion#0;class#Window#0" expanded="false" />
+            <element signature="docComment;method#writeObject#0;class#Window#0" expanded="false" />
+            <element signature="method#writeObject#0;class#Window#0" expanded="false" />
+            <element signature="e#106524#106591#0" expanded="false" />
+            <element signature="method#initDeserializedWindow#0;class#Window#0" expanded="false" />
+            <element signature="method#deserializeResources#0;class#Window#0" expanded="false" />
+            <element signature="e#108620#108683#0" expanded="false" />
+            <element signature="e#109072#109139#0" expanded="false" />
+            <element signature="e#110878#110900#0" expanded="false" />
+            <element signature="docComment;method#readObject#0;class#Window#0" expanded="false" />
+            <element signature="method#readObject#0;class#Window#0" expanded="false" />
+            <element signature="docComment;method#getAccessibleContext#0;class#Window#0" expanded="false" />
+            <element signature="method#getAccessibleContext#0;class#Window#0" expanded="false" />
+            <element signature="docComment;class#AccessibleAWTWindow#0;class#Window#0" expanded="false" />
+            <element signature="class#AccessibleAWTWindow#0;class#Window#0" expanded="false" />
+            <element signature="docComment;method#getAccessibleRole#0;class#AccessibleAWTWindow#0;class#Window#0" expanded="false" />
+            <element signature="docComment;method#getAccessibleStateSet#0;class#AccessibleAWTWindow#0;class#Window#0" expanded="false" />
+            <element signature="method#getAccessibleStateSet#0;class#AccessibleAWTWindow#0;class#Window#0" expanded="false" />
+            <element signature="method#setGraphicsConfiguration#0;class#Window#0" expanded="false" />
+            <element signature="docComment;method#setLocationRelativeTo#0;class#Window#0" expanded="false" />
+            <element signature="method#setLocationRelativeTo#0;class#Window#0" expanded="false" />
+            <element signature="e#120378#120427#0" expanded="false" />
+            <element signature="docComment;method#deliverMouseWheelToAncestor#0;class#Window#0" expanded="false" />
+            <element signature="docComment;method#dispatchMouseWheelToAncestor#0;class#Window#0" expanded="false" />
+            <element signature="method#dispatchMouseWheelToAncestor#0;class#Window#0" expanded="false" />
+            <element signature="docComment;method#createBufferStrategy#0;class#Window#0" expanded="false" />
+            <element signature="docComment;method#createBufferStrategy#1;class#Window#0" expanded="false" />
+            <element signature="method#createBufferStrategy#1;class#Window#0" expanded="false" />
+            <element signature="docComment;method#getBufferStrategy#0;class#Window#0" expanded="false" />
+            <element signature="method#setTemporaryLostComponent#0;class#Window#0" expanded="false" />
+            <element signature="e#124168#124251#0" expanded="false" />
+            <element signature="docComment;method#canContainFocusOwner#0;class#Window#0" expanded="false" />
+            <element signature="method#canContainFocusOwner#0;class#Window#0" expanded="false" />
+            <element signature="docComment;method#setLocationByPlatform#0;class#Window#0" expanded="false" />
+            <element signature="method#setLocationByPlatform#0;class#Window#0" expanded="false" />
+            <element signature="docComment;method#isLocationByPlatform#0;class#Window#0" expanded="false" />
+            <element signature="method#isLocationByPlatform#0;class#Window#0" expanded="false" />
+            <element signature="docComment;method#setBounds#0;class#Window#0" expanded="false" />
+            <element signature="method#setBounds#0;class#Window#0" expanded="false" />
+            <element signature="docComment;method#setBounds#1;class#Window#0" expanded="false" />
+            <element signature="docComment;method#isRecursivelyVisible#0;class#Window#0" expanded="false" />
+            <element signature="method#isRecursivelyVisible#0;class#Window#0" expanded="false" />
+            <element signature="e#130228#130314#0" expanded="false" />
+            <element signature="docComment;method#getOpacity#0;class#Window#0" expanded="false" />
+            <element signature="method#getOpacity#0;class#Window#0" expanded="false" />
+            <element signature="docComment;method#setOpacity#0;class#Window#0" expanded="false" />
+            <element signature="method#setOpacity#0;class#Window#0" expanded="false" />
+            <element signature="docComment;method#getShape#0;class#Window#0" expanded="false" />
+            <element signature="method#getShape#0;class#Window#0" expanded="false" />
+            <element signature="docComment;method#setShape#0;class#Window#0" expanded="false" />
+            <element signature="method#setShape#0;class#Window#0" expanded="false" />
+            <element signature="docComment;method#getBackground#0;class#Window#0" expanded="false" />
+            <element signature="docComment;method#setBackground#0;class#Window#0" expanded="false" />
+            <element signature="method#setBackground#0;class#Window#0" expanded="false" />
+            <element signature="docComment;method#isOpaque#0;class#Window#0" expanded="false" />
+            <element signature="method#isOpaque#0;class#Window#0" expanded="false" />
+            <element signature="method#updateWindow#0;class#Window#0" expanded="false" />
+            <element signature="docComment;method#paint#0;class#Window#0" expanded="false" />
+            <element signature="method#paint#0;class#Window#0" expanded="false" />
+            <element signature="method#setLayersOpaque#0;class#Window#0" expanded="false" />
+            <element signature="e#145845#145903#0" expanded="false" />
+            <element signature="e#146603#146661#0" expanded="false" />
+            <element signature="e#146928#146975#0" expanded="false" />
+            <element signature="docComment;method#applyCompoundShape#0;class#Window#0" expanded="false" />
+            <element signature="method#applyCompoundShape#0;class#Window#0" expanded="false" />
+            <element signature="e#147661#147729#0" expanded="false" />
+            <element signature="method#applyCurrentShape#0;class#Window#0" expanded="false" />
+            <element signature="e#147828#147896#0" expanded="false" />
+            <element signature="method#mixOnReshaping#0;class#Window#0" expanded="false" />
+            <element signature="e#147992#148060#0" expanded="false" />
+            <element signature="docComment;method#limit#0;class#Window#0" expanded="false" />
+            <element signature="method#limit#0;class#Window#0" expanded="false" />
+            <element signature="docComment;method#calculateSecurityWarningPosition#0;class#Window#0" expanded="false" />
+            <element signature="method#calculateSecurityWarningPosition#0;class#Window#0" expanded="false" />
+            <element signature="initializer##1;class#Window#0" expanded="false" />
+            <element signature="class#150435:153288" expanded="false" />
+            <element signature="method#setOpaque#0;class#150435:153288" expanded="false" />
+            <element signature="method#getSecurityWarningSize#0;class#150435:153288" expanded="false" />
+            <element signature="method#setSecurityWarningSize#0;class#150435:153288" expanded="false" />
+            <element signature="method#setSecurityWarningPosition#0;class#150435:153288" expanded="false" />
+            <element signature="method#calculateSecurityWarningPosition#0;class#150435:153288" expanded="false" />
+            <element signature="docComment;class#FocusManager#0" expanded="false" />
+            <element signature="class#FocusManager#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///usr/local/java/jdk1.8.0_91/src.zip!/javax/accessibility/Accessible.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="38" column="17" selection-start-line="38" selection-start-column="17" selection-end-line="38" selection-end-column="17" />
+          <folding>
+            <element signature="e#0#1211#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///usr/local/java/jdk1.8.0_91/src.zip!/java/awt/event/WindowEvent.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="58" column="13" selection-start-line="58" selection-start-column="13" selection-end-line="58" selection-end-column="13" />
+          <folding>
+            <element signature="docComment;class#WindowEvent#0" expanded="false" />
+            <element signature="docComment;field#WINDOW_FIRST#0;class#WindowEvent#0" expanded="false" />
+            <element signature="docComment;field#WINDOW_OPENED#0;class#WindowEvent#0" expanded="false" />
+            <element signature="docComment;field#WINDOW_CLOSING#0;class#WindowEvent#0" expanded="false" />
+            <element signature="docComment;field#WINDOW_CLOSED#0;class#WindowEvent#0" expanded="false" />
+            <element signature="docComment;field#WINDOW_ICONIFIED#0;class#WindowEvent#0" expanded="false" />
+            <element signature="docComment;field#WINDOW_DEICONIFIED#0;class#WindowEvent#0" expanded="false" />
+            <element signature="docComment;field#WINDOW_ACTIVATED#0;class#WindowEvent#0" expanded="false" />
+            <element signature="docComment;field#WINDOW_DEACTIVATED#0;class#WindowEvent#0" expanded="false" />
+            <element signature="docComment;field#WINDOW_GAINED_FOCUS#0;class#WindowEvent#0" expanded="false" />
+            <element signature="docComment;field#WINDOW_LOST_FOCUS#0;class#WindowEvent#0" expanded="false" />
+            <element signature="docComment;field#WINDOW_STATE_CHANGED#0;class#WindowEvent#0" expanded="false" />
+            <element signature="docComment;field#WINDOW_LAST#0;class#WindowEvent#0" expanded="false" />
+            <element signature="docComment;field#opposite#0;class#WindowEvent#0" expanded="false" />
+            <element signature="docComment;field#oldState#0;class#WindowEvent#0" expanded="false" />
+            <element signature="docComment;method#WindowEvent#0;class#WindowEvent#0" expanded="false" />
+            <element signature="method#WindowEvent#0;class#WindowEvent#0" expanded="false" />
+            <element signature="docComment;method#WindowEvent#1;class#WindowEvent#0" expanded="false" />
+            <element signature="docComment;method#WindowEvent#2;class#WindowEvent#0" expanded="false" />
+            <element signature="method#WindowEvent#2;class#WindowEvent#0" expanded="false" />
+            <element signature="docComment;method#WindowEvent#3;class#WindowEvent#0" expanded="false" />
+            <element signature="docComment;method#getWindow#0;class#WindowEvent#0" expanded="false" />
+            <element signature="docComment;method#getOppositeWindow#0;class#WindowEvent#0" expanded="false" />
+            <element signature="method#getOppositeWindow#0;class#WindowEvent#0" expanded="false" />
+            <element signature="docComment;method#getOldState#0;class#WindowEvent#0" expanded="false" />
+            <element signature="docComment;method#getNewState#0;class#WindowEvent#0" expanded="false" />
+            <element signature="docComment;method#paramString#0;class#WindowEvent#0" expanded="false" />
+            <element signature="method#paramString#0;class#WindowEvent#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/idea常用快捷键.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="10" column="27" selection-start-line="10" selection-start-column="27" selection-end-line="10" selection-end-column="27" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///usr/local/java/jdk1.8.0_91/src.zip!/java/awt/event/WindowAdapter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="217">
+          <caret line="54" column="22" selection-start-line="54" selection-start-column="22" selection-end-line="54" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///usr/local/java/jdk1.8.0_91/src.zip!/java/awt/Color.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-252">
+          <caret line="59" column="13" selection-start-line="59" selection-start-column="13" selection-end-line="59" selection-end-column="13" />
+          <folding>
+            <element signature="docComment;class#Color#0" expanded="false" />
+            <element signature="docComment;field#white#0;class#Color#0" expanded="false" />
+            <element signature="docComment;field#WHITE#0;class#Color#0" expanded="false" />
+            <element signature="docComment;field#lightGray#0;class#Color#0" expanded="false" />
+            <element signature="docComment;field#LIGHT_GRAY#0;class#Color#0" expanded="false" />
+            <element signature="docComment;field#gray#0;class#Color#0" expanded="false" />
+            <element signature="docComment;field#GRAY#0;class#Color#0" expanded="false" />
+            <element signature="docComment;field#darkGray#0;class#Color#0" expanded="false" />
+            <element signature="docComment;field#DARK_GRAY#0;class#Color#0" expanded="false" />
+            <element signature="docComment;field#black#0;class#Color#0" expanded="false" />
+            <element signature="docComment;field#BLACK#0;class#Color#0" expanded="false" />
+            <element signature="docComment;field#red#0;class#Color#0" expanded="false" />
+            <element signature="docComment;field#RED#0;class#Color#0" expanded="false" />
+            <element signature="docComment;field#pink#0;class#Color#0" expanded="false" />
+            <element signature="docComment;field#PINK#0;class#Color#0" expanded="false" />
+            <element signature="docComment;field#orange#0;class#Color#0" expanded="false" />
+            <element signature="docComment;field#ORANGE#0;class#Color#0" expanded="false" />
+            <element signature="docComment;field#yellow#0;class#Color#0" expanded="false" />
+            <element signature="docComment;field#YELLOW#0;class#Color#0" expanded="false" />
+            <element signature="docComment;field#green#0;class#Color#0" expanded="false" />
+            <element signature="docComment;field#GREEN#0;class#Color#0" expanded="false" />
+            <element signature="docComment;field#magenta#0;class#Color#0" expanded="false" />
+            <element signature="docComment;field#MAGENTA#0;class#Color#0" expanded="false" />
+            <element signature="docComment;field#cyan#0;class#Color#0" expanded="false" />
+            <element signature="docComment;field#CYAN#0;class#Color#0" expanded="false" />
+            <element signature="docComment;field#blue#0;class#Color#0" expanded="false" />
+            <element signature="docComment;field#BLUE#0;class#Color#0" expanded="false" />
+            <element signature="docComment;field#value#0;class#Color#0" expanded="false" />
+            <element signature="docComment;field#frgbvalue#0;class#Color#0" expanded="false" />
+            <element signature="docComment;field#fvalue#0;class#Color#0" expanded="false" />
+            <element signature="docComment;field#falpha#0;class#Color#0" expanded="false" />
+            <element signature="docComment;field#cs#0;class#Color#0" expanded="false" />
+            <element signature="docComment;method#initIDs#0;class#Color#0" expanded="false" />
+            <element signature="initializer##0;class#Color#0" expanded="false" />
+            <element signature="docComment;method#testColorValueRange#0;class#Color#0" expanded="false" />
+            <element signature="method#testColorValueRange#0;class#Color#0" expanded="false" />
+            <element signature="docComment;method#testColorValueRange#1;class#Color#0" expanded="false" />
+            <element signature="method#testColorValueRange#1;class#Color#0" expanded="false" />
+            <element signature="docComment;method#Color#0;class#Color#0" expanded="false" />
+            <element signature="docComment;method#Color#1;class#Color#0" expanded="false" />
+            <element signature="method#Color#1;class#Color#0" expanded="false" />
+            <element signature="docComment;method#Color#2;class#Color#0" expanded="false" />
+            <element signature="docComment;method#Color#3;class#Color#0" expanded="false" />
+            <element signature="method#Color#3;class#Color#0" expanded="false" />
+            <element signature="docComment;method#Color#4;class#Color#0" expanded="false" />
+            <element signature="method#Color#4;class#Color#0" expanded="false" />
+            <element signature="docComment;method#Color#5;class#Color#0" expanded="false" />
+            <element signature="method#Color#5;class#Color#0" expanded="false" />
+            <element signature="docComment;method#Color#6;class#Color#0" expanded="false" />
+            <element signature="method#Color#6;class#Color#0" expanded="false" />
+            <element signature="docComment;method#getRed#0;class#Color#0" expanded="false" />
+            <element signature="docComment;method#getGreen#0;class#Color#0" expanded="false" />
+            <element signature="docComment;method#getBlue#0;class#Color#0" expanded="false" />
+            <element signature="docComment;method#getAlpha#0;class#Color#0" expanded="false" />
+            <element signature="docComment;method#getRGB#0;class#Color#0" expanded="false" />
+            <element signature="docComment;method#brighter#0;class#Color#0" expanded="false" />
+            <element signature="method#brighter#0;class#Color#0" expanded="false" />
+            <element signature="docComment;method#darker#0;class#Color#0" expanded="false" />
+            <element signature="method#darker#0;class#Color#0" expanded="false" />
+            <element signature="docComment;method#hashCode#0;class#Color#0" expanded="false" />
+            <element signature="docComment;method#equals#0;class#Color#0" expanded="false" />
+            <element signature="docComment;method#toString#0;class#Color#0" expanded="false" />
+            <element signature="method#toString#0;class#Color#0" expanded="false" />
+            <element signature="docComment;method#decode#0;class#Color#0" expanded="false" />
+            <element signature="method#decode#0;class#Color#0" expanded="false" />
+            <element signature="docComment;method#getColor#0;class#Color#0" expanded="false" />
+            <element signature="docComment;method#getColor#1;class#Color#0" expanded="false" />
+            <element signature="method#getColor#1;class#Color#0" expanded="false" />
+            <element signature="docComment;method#getColor#2;class#Color#0" expanded="false" />
+            <element signature="method#getColor#2;class#Color#0" expanded="false" />
+            <element signature="docComment;method#HSBtoRGB#0;class#Color#0" expanded="false" />
+            <element signature="method#HSBtoRGB#0;class#Color#0" expanded="false" />
+            <element signature="docComment;method#RGBtoHSB#0;class#Color#0" expanded="false" />
+            <element signature="method#RGBtoHSB#0;class#Color#0" expanded="false" />
+            <element signature="docComment;method#getHSBColor#0;class#Color#0" expanded="false" />
+            <element signature="docComment;method#getRGBComponents#0;class#Color#0" expanded="false" />
+            <element signature="method#getRGBComponents#0;class#Color#0" expanded="false" />
+            <element signature="docComment;method#getRGBColorComponents#0;class#Color#0" expanded="false" />
+            <element signature="method#getRGBColorComponents#0;class#Color#0" expanded="false" />
+            <element signature="docComment;method#getComponents#0;class#Color#0" expanded="false" />
+            <element signature="method#getComponents#0;class#Color#0" expanded="false" />
+            <element signature="docComment;method#getColorComponents#0;class#Color#0" expanded="false" />
+            <element signature="method#getColorComponents#0;class#Color#0" expanded="false" />
+            <element signature="docComment;method#getComponents#1;class#Color#0" expanded="false" />
+            <element signature="method#getComponents#1;class#Color#0" expanded="false" />
+            <element signature="docComment;method#getColorComponents#1;class#Color#0" expanded="false" />
+            <element signature="method#getColorComponents#1;class#Color#0" expanded="false" />
+            <element signature="docComment;method#getColorSpace#0;class#Color#0" expanded="false" />
+            <element signature="method#getColorSpace#0;class#Color#0" expanded="false" />
+            <element signature="docComment;method#createContext#0;class#Color#0" expanded="false" />
+            <element signature="method#createContext#0;class#Color#0" expanded="false" />
+            <element signature="docComment;method#getTransparency#0;class#Color#0" expanded="false" />
+            <element signature="method#getTransparency#0;class#Color#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///usr/local/java/jdk1.8.0_91/src.zip!/java/awt/Font.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1081">
+          <caret line="566" column="11" selection-start-line="566" selection-start-column="11" selection-end-line="566" selection-end-column="11" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///usr/local/java/jdk1.8.0_91/src.zip!/java/awt/Graphics.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="217">
+          <caret line="881" column="28" selection-start-line="881" selection-start-column="28" selection-end-line="881" selection-end-column="28" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/MyGame/GameUtil.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="14" column="20" selection-start-line="14" selection-start-column="20" selection-end-line="14" selection-end-column="20" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///usr/local/java/jdk1.8.0_91/src.zip!/java/lang/Thread.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="217">
+          <caret line="695" column="29" selection-start-line="695" selection-start-column="29" selection-end-line="695" selection-end-column="29" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/下载/lADOff4-9ygo_40_40.jpg_620x10000q90g.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/MyGame/GameFrame.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="378">
+          <caret line="21" column="39" selection-start-line="21" selection-start-column="39" selection-end-line="21" selection-end-column="39" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#1208#1209#0" expanded="true" />
+            <element signature="e#1264#1265#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

@@ -1,0 +1,30 @@
+/**
+ * Created by hzq on 16-10-17.
+ */
+
+/**
+ * 基本的代码提示,智能补全：ctrl+space
+ * 还有更智能地按类型信息提示：ctrl+shift+space
+ * 重构功能大汇总快捷键,重构一切：Ctrl+Shift+Alt+T，叫做Refactor This。 自我修复：Alt+Enter。
+ * Shift+F6直接就是改名，Ctrl+Alt+V则是提取变量。
+ * 代码生成fori/sout/psvm+Tab，用Ctrl+J可以查看所有模板
+ * Alt+Insert，在编辑窗口中点击可以生成构造函数、toString、getter/setter、重写父类方法等。
+ * 例如要输入for(User user : users)只需输入user.for+Tab。再比如，要输入Date birthday = user.getBirthday();只需输入user.getBirthday().var+Tab即可。
+ * 选中代码的Ctrl+W以及反向的Ctrl+Shift+W，移动光标到前/后单词Ctrl+Left/Right
+ * Ctrl+Left/Right移动光标到前/后单词，Ctrl+[/]移动到前/后代码块；以上Ctrl+Left/Right/[]加上Shift的话就能选中跳跃范围内的代码
+ * Alt+Forward/Backward移动到前/后方法。还有些非常普通的像Ctrl+Y删除行、Ctrl+D复制行、Ctrl+</>折叠代码
+ * 可以安装ideaVim或者emacsIDEAs享受到Vim的快速移动和Emacs的AceJump功能
+ * 用Ctrl+Shift+Num定义1-10书签(再次按这组快捷键则是删除书签)，然后通过Ctrl+Num跳转。这避免了多次使用前/下一编辑位置Ctrl+Left/Right来回跳转的麻烦(默认多了Alt）
+ * Ctrl+N/Ctrl+Shift+N可以打开类或资源，搜索项目中的类。
+ * Ctrl+Shift++/-可以展开或缩略文件中的所有方法。
+ * 类的继承关系则可用Ctrl+H打开类层次窗口，在继承层次上跳转则用Ctrl+B/Ctrl+Alt+B分别对应父类或父方法定义和子类或子方法实现，查看当前类的所有方法用Ctrl+F12。
+ * 要找类或方法的使用也很简单，Alt+7。
+ * 命令：Ctrl+Shift+A可以查找所有Intellij的命令，并且每个命令后面还有其快捷键。
+ * 新建：Alt+Insert可以新建类、方法等任何东西。
+ * 格式化代码：格式化import列表Ctrl+Alt+O，格式化代码Ctrl+Alt+L。
+ * 切换窗口：Alt+Num，常用的有1-项目结构，3-搜索结果，4/5-运行调试。Ctrl+Tab切换标签页，Ctrl+E/Ctrl+Shift+E打开最近打开过的或编辑过的文件。
+ * 单元测试：Ctrl+Alt+T创建单元测试用例。
+ * 运行：Alt+Shift+F10运行程序，Shift+F9启动调试，Ctrl+F2停止。
+ * 调试：F7/F8/F9分别对应Step into，Step over，Continue。
+ * intellij只要改过电脑时间就无法输入，ctrl+o，调出该类的所有方法并选择性重写
+ * */
