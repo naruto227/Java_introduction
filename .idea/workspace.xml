@@ -2,226 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4c292b54-89c4-478a-8d69-c6a01e89e107" name="Default" comment="game Frame class">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Java_introduction/MyGame/GameFrame$1.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Java_introduction/MyGame/GameFrame$PaintThread.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Java_introduction/MyGame/GameFrame.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Java_introduction/MyGame/GameUtil.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Java_introduction/OuterClass/Face$NOSE.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Java_introduction/OuterClass/Face.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Java_introduction/OuterClass/Outer.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Java_introduction/abstractClass/Animal.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Java_introduction/abstractClass/Cat.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Java_introduction/abstractClass/Dog.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Java_introduction/abstractClass/Test.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Java_introduction/callback/GameFrame01.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Java_introduction/callback/GameFrame02.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Java_introduction/callback/GameFrame03.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Java_introduction/callback/GameFrame04.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Java_introduction/callback/IMyFrame.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Java_introduction/callback/MyFrame.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Java_introduction/callback/PaintFrame.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Java_introduction/cn/hzq/Car.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Java_introduction/cn/hzq/Computer.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Java_introduction/cn/hzq/MyMath.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Java_introduction/cn/hzq/Point.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Java_introduction/cn/hzq/Student.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Java_introduction/cn/hzq/Test.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Java_introduction/cn/hzq/TestConstructor.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Java_introduction/cn/hzq/TestOverload.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Java_introduction/cn/hzq/TestStatic.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Java_introduction/cn/oop/hzq/testObject/Mobile.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Java_introduction/cn/oop/hzq/testObject/TestObject.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Java_introduction/com/company/Main.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Java_introduction/exception/Computer.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Java_introduction/exception/TestException.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Java_introduction/exception/TestReadFile.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Java_introduction/exception/TestReadFile1.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Java_introduction/exception/TestReadFileSequ.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Java_introduction/images/9d52c073gw1e9twtifbdtj20np0zkn29.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Java_introduction/images/9d52c073gw1e9twtj82wgj20a00hs76r.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Java_introduction/images/9d52c073gw1e9v7vjrrrcj20et0k0taz.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Java_introduction/images/9d52c073gw1e9v7vl6cnij20go0p0n0z.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Java_introduction/images/9d52c073gw1e9v7vm70yvj20hl0qewi3.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Java_introduction/images/9d52c073gw1e9v7vmuf9kj20j20pf0wt.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Java_introduction/images/9d52c073gw1e9v7vntg3jj20go0oyq7d.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Java_introduction/images/9d52c073gw1e9wa1d22jwj20go0p0gmr.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Java_introduction/images/9d52c073gw1e9wa1dn68uj20a00hsta4.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Java_introduction/images/9d52c073jw1e8hfbgnav8j20c80gadh1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Java_introduction/images/9d52c073jw1e8hfbiiatsj20go0of789.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Java_introduction/images/9d52c073jw1e8hfbjr12oj20dw0kojwa.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Java_introduction/images/9d52c073jw1e8hfbkj1fij20bs0foaah.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Java_introduction/images/9d52c073jw1e8ipkgd4mmj20g40lhjvf.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Java_introduction/images/9d52c073jw1e8ipkh05w5j20dc0k075h.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Java_introduction/images/9d52c073jw1e8ipkjmh7aj20fe0k0wg5.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Java_introduction/images/9d52c073jw1e8ipkk9rl3j20ci0hp0ul.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Java_introduction/images/9d52c073jw1e8ipkl8i15j20dw0itgo7.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Java_introduction/images/9d52c073jw1e8jr1e822ej20fe0kiwi3.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Java_introduction/images/9d52c073jw1e8jr1ga10oj20go0oidkc.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Java_introduction/images/9d52c073jw1e8jr1ifjshj20fa0mxn0z.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Java_introduction/images/9d52c073jw1e8kxak0ao2j20f00k03zs.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Java_introduction/images/9d52c073jw1e8kxakk6h6j20dv0fu3zc.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Java_introduction/images/9d52c073jw1e8kxalfmapj20g40o6wif.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Java_introduction/images/9d52c073jw1e8kxambk0wj20dc0k0abo.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Java_introduction/images/9d52c073jw1e8kxan0pi9j20dc0gamxt.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Java_introduction/images/9d52c073jw1e8mamte121j20ci0iuaco.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Java_introduction/images/9d52c073jw1e8mamu27kij20ci0ixdj2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Java_introduction/images/9d52c073jw1e8mamv90kej20g40l5n11.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Java_introduction/images/9d52c073jw1e8mamw6fooj20g40qltd4.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Java_introduction/images/9d52c073jw1e8mamxs2ktj20g40m6wig.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Java_introduction/images/9d52c073jw1e8oe0kak90j20go0oi78e.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Java_introduction/images/9d52c073jw1e8oe0kwneej20dw0kutbh.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Java_introduction/images/9d52c073jw1e8oe0lqxaaj20dg0k9ta2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Java_introduction/images/9d52c073jw1e8oe0n5lzvj20go0p0tap.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Java_introduction/images/9d52c073jw1e8pj0uz2t1j20go0ncn15.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Java_introduction/images/lADOff4-9ygo_40_40.jpg_620x10000q90g.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Java_introduction/inherit/Animal.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Java_introduction/inherit/Animal2.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Java_introduction/inherit/Birds.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Java_introduction/inherit/Birds2.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Java_introduction/inherit/Mammal.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Java_introduction/inherit/Mammal2.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Java_introduction/inherit/Paxing.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Java_introduction/inherit/Paxing2.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Java_introduction/inherit/TestAnimal.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Java_introduction/multiArray/Matrix.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Java_introduction/multiArray/test01.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Java_introduction/multiArray/testArray.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Java_introduction/myCollection/Human.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Java_introduction/myCollection/MyArrayList.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Java_introduction/polymophism/Animal.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Java_introduction/polymophism/Cat.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Java_introduction/polymophism/Dog.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Java_introduction/polymophism/Pig.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Java_introduction/polymophism/Test.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Java_introduction/polymophism/servlet/HttpServlet.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Java_introduction/polymophism/servlet/MyServlet.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Java_introduction/polymophism/servlet/Test.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Java_introduction/testArray/Car.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Java_introduction/testArray/test01.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Java_introduction/testArray/test02.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Java_introduction/testDate/FileTree.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Java_introduction/testDate/TestCalendar.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Java_introduction/testDate/TestDate.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Java_introduction/testDate/TestFile.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Java_introduction/testDate/VisualCalendar.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Java_introduction/testDate/testDateFormat.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Java_introduction/testInterface/Attack.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Java_introduction/testInterface/Flyable.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Java_introduction/testInterface/InterfaceA.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Java_introduction/testInterface/InterfaceB.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Java_introduction/testInterface/InterfaceC.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Java_introduction/testInterface/Man.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Java_introduction/testInterface/MyClass.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Java_introduction/testInterface/MyInterface.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Java_introduction/testInterface/Plane.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Java_introduction/testInterface/Stone.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Java_introduction/testInterface/TestClass.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Java_introduction/testString/test01.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Java_introduction/testStringBuilder/test01.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Java_introduction/testStringBuilder/test02.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Java_introduction/testWrappedClass/test01.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Java_introduction/testWrappedClass/test02.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/images/9d52c073gw1e9twtifbdtj20np0zkn29.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/images/9d52c073gw1e9twtj82wgj20a00hs76r.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/images/9d52c073gw1e9v7vjrrrcj20et0k0taz.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/images/9d52c073gw1e9v7vl6cnij20go0p0n0z.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/images/9d52c073gw1e9v7vm70yvj20hl0qewi3.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/images/9d52c073gw1e9v7vmuf9kj20j20pf0wt.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/images/9d52c073gw1e9v7vntg3jj20go0oyq7d.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/images/9d52c073gw1e9wa1d22jwj20go0p0gmr.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/images/9d52c073gw1e9wa1dn68uj20a00hsta4.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/images/9d52c073jw1e8hfbgnav8j20c80gadh1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/images/9d52c073jw1e8hfbiiatsj20go0of789.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/images/9d52c073jw1e8hfbjr12oj20dw0kojwa.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/images/9d52c073jw1e8hfbkj1fij20bs0foaah.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/images/9d52c073jw1e8ipkgd4mmj20g40lhjvf.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/images/9d52c073jw1e8ipkh05w5j20dc0k075h.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/images/9d52c073jw1e8ipkjmh7aj20fe0k0wg5.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/images/9d52c073jw1e8ipkk9rl3j20ci0hp0ul.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/images/9d52c073jw1e8ipkl8i15j20dw0itgo7.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/images/9d52c073jw1e8jr1e822ej20fe0kiwi3.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/images/9d52c073jw1e8jr1ga10oj20go0oidkc.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/images/9d52c073jw1e8jr1ifjshj20fa0mxn0z.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/images/9d52c073jw1e8kxak0ao2j20f00k03zs.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/images/9d52c073jw1e8kxakk6h6j20dv0fu3zc.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/images/9d52c073jw1e8kxalfmapj20g40o6wif.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/images/9d52c073jw1e8kxambk0wj20dc0k0abo.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/images/9d52c073jw1e8kxan0pi9j20dc0gamxt.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/images/9d52c073jw1e8mamte121j20ci0iuaco.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/images/9d52c073jw1e8mamu27kij20ci0ixdj2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/images/9d52c073jw1e8mamv90kej20g40l5n11.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/images/9d52c073jw1e8mamw6fooj20g40qltd4.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/images/9d52c073jw1e8mamxs2ktj20g40m6wig.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/images/9d52c073jw1e8oe0kak90j20go0oi78e.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/images/9d52c073jw1e8oe0kwneej20dw0kutbh.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/images/9d52c073jw1e8oe0lqxaaj20dg0k9ta2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/images/9d52c073jw1e8oe0n5lzvj20go0p0tap.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/images/9d52c073jw1e8pj0uz2t1j20go0ncn15.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/images/lADOff4-9ygo_40_40.jpg_620x10000q90g.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/compiler.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/copyright/profiles_settings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/description.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/encodings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/project-template.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Java_introduction.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/idea常用快捷键.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/MyGame/GameFrame.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/MyGame/GameUtil.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/OuterClass/Outer.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/abstractClass/Animal.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/abstractClass/Test.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/callback/MyFrame.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/callback/PaintFrame.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/cn/hzq/Car.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/cn/hzq/Computer.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/cn/hzq/Point.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/cn/hzq/Student.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/cn/hzq/Test.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/cn/hzq/TestConstructor.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/cn/hzq/TestOverload.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/cn/hzq/TestStatic.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/cn/oop/hzq/testObject/Mobile.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/cn/oop/hzq/testObject/TestObject.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/company/Main.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/exception/TestException.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/exception/TestReadFile.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/exception/TestReadFile1.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/exception/TestReadFileSequ.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/inherit/Animal.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/inherit/Animal2.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/inherit/TestAnimal.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/multiArray/Matrix.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/multiArray/test01.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/multiArray/testArray.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/myCollection/Human.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/myCollection/MyArrayList.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/polymophism/Animal.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/polymophism/Test.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/polymophism/servlet/HttpServlet.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/polymophism/servlet/MyServlet.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/polymophism/servlet/Test.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/testArray/Car.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/testArray/test01.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/testArray/test02.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/testDate/FileTree.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/testDate/TestCalendar.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/testDate/TestDate.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/testDate/TestFile.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/testDate/VisualCalendar.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/testDate/testDateFormat.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/testInterface/Flyable.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/testInterface/InterfaceA.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/testInterface/MyClass.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/testInterface/MyInterface.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/testString/test01.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/testStringBuilder/test01.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/testStringBuilder/test02.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/testWrappedClass/test01.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/testWrappedClass/test02.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/MyGame/GameFrame02.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/MyGame/GameFrame03.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/Java_introduction/MyGame/GameFrame$PaintThread.class" afterPath="$PROJECT_DIR$/out/production/Java_introduction/MyGame/GameFrame$PaintThread.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/Java_introduction/MyGame/GameFrame.class" afterPath="$PROJECT_DIR$/out/production/Java_introduction/MyGame/GameFrame.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="Java_introduction.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -251,16 +36,46 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="GameFrame.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="GameFrame.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/MyGame/GameFrame.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="378">
-              <caret line="21" column="39" selection-start-line="21" selection-start-column="39" selection-end-line="21" selection-end-column="39" />
+            <state relative-caret-position="180">
+              <caret line="10" column="24" selection-start-line="10" selection-start-column="24" selection-end-line="10" selection-end-column="24" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#1208#1209#0" expanded="true" />
-                <element signature="e#1264#1265#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="GameFrame02.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/MyGame/GameFrame02.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="243">
+              <caret line="26" column="35" selection-start-line="0" selection-start-column="0" selection-end-line="87" selection-end-column="0" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="GameFrame03.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/MyGame/GameFrame03.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="90">
+              <caret line="5" column="26" selection-start-line="5" selection-start-column="26" selection-end-line="5" selection-end-column="26" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Object.java" pinned="false" current-in-tab="false">
+        <entry file="jar:///usr/local/java/jdk1.8.0_91/src.zip!/java/lang/Object.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="234">
+              <caret line="36" column="0" selection-start-line="36" selection-start-column="0" selection-end-line="36" selection-end-column="0" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -268,7 +83,7 @@
       <file leaf-file-name="Thread.java" pinned="false" current-in-tab="false">
         <entry file="jar:///usr/local/java/jdk1.8.0_91/src.zip!/java/lang/Thread.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="217">
+            <state relative-caret-position="11484">
               <caret line="695" column="29" selection-start-line="695" selection-start-column="29" selection-end-line="695" selection-end-column="29" />
               <folding />
             </state>
@@ -290,7 +105,7 @@
       <file leaf-file-name="Font.java" pinned="false" current-in-tab="false">
         <entry file="jar:///usr/local/java/jdk1.8.0_91/src.zip!/java/awt/Font.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1081">
+            <state relative-caret-position="8946">
               <caret line="566" column="11" selection-start-line="566" selection-start-column="11" selection-end-line="566" selection-end-column="11" />
               <folding />
             </state>
@@ -300,7 +115,7 @@
       <file leaf-file-name="Color.java" pinned="false" current-in-tab="false">
         <entry file="jar:///usr/local/java/jdk1.8.0_91/src.zip!/java/awt/Color.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-252">
+            <state relative-caret-position="126">
               <caret line="59" column="13" selection-start-line="59" selection-start-column="13" selection-end-line="59" selection-end-column="13" />
               <folding>
                 <element signature="docComment;class#Color#0" expanded="false" />
@@ -404,60 +219,9 @@
       <file leaf-file-name="WindowAdapter.java" pinned="false" current-in-tab="false">
         <entry file="jar:///usr/local/java/jdk1.8.0_91/src.zip!/java/awt/event/WindowAdapter.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="217">
+            <state relative-caret-position="558">
               <caret line="54" column="22" selection-start-line="54" selection-start-column="22" selection-end-line="54" selection-end-column="22" />
               <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="WindowEvent.java" pinned="false" current-in-tab="false">
-        <entry file="jar:///usr/local/java/jdk1.8.0_91/src.zip!/java/awt/event/WindowEvent.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="126">
-              <caret line="58" column="13" selection-start-line="58" selection-start-column="13" selection-end-line="58" selection-end-column="13" />
-              <folding>
-                <element signature="docComment;class#WindowEvent#0" expanded="false" />
-                <element signature="docComment;field#WINDOW_FIRST#0;class#WindowEvent#0" expanded="false" />
-                <element signature="docComment;field#WINDOW_OPENED#0;class#WindowEvent#0" expanded="false" />
-                <element signature="docComment;field#WINDOW_CLOSING#0;class#WindowEvent#0" expanded="false" />
-                <element signature="docComment;field#WINDOW_CLOSED#0;class#WindowEvent#0" expanded="false" />
-                <element signature="docComment;field#WINDOW_ICONIFIED#0;class#WindowEvent#0" expanded="false" />
-                <element signature="docComment;field#WINDOW_DEICONIFIED#0;class#WindowEvent#0" expanded="false" />
-                <element signature="docComment;field#WINDOW_ACTIVATED#0;class#WindowEvent#0" expanded="false" />
-                <element signature="docComment;field#WINDOW_DEACTIVATED#0;class#WindowEvent#0" expanded="false" />
-                <element signature="docComment;field#WINDOW_GAINED_FOCUS#0;class#WindowEvent#0" expanded="false" />
-                <element signature="docComment;field#WINDOW_LOST_FOCUS#0;class#WindowEvent#0" expanded="false" />
-                <element signature="docComment;field#WINDOW_STATE_CHANGED#0;class#WindowEvent#0" expanded="false" />
-                <element signature="docComment;field#WINDOW_LAST#0;class#WindowEvent#0" expanded="false" />
-                <element signature="docComment;field#opposite#0;class#WindowEvent#0" expanded="false" />
-                <element signature="docComment;field#oldState#0;class#WindowEvent#0" expanded="false" />
-                <element signature="docComment;method#WindowEvent#0;class#WindowEvent#0" expanded="false" />
-                <element signature="method#WindowEvent#0;class#WindowEvent#0" expanded="false" />
-                <element signature="docComment;method#WindowEvent#1;class#WindowEvent#0" expanded="false" />
-                <element signature="docComment;method#WindowEvent#2;class#WindowEvent#0" expanded="false" />
-                <element signature="method#WindowEvent#2;class#WindowEvent#0" expanded="false" />
-                <element signature="docComment;method#WindowEvent#3;class#WindowEvent#0" expanded="false" />
-                <element signature="docComment;method#getWindow#0;class#WindowEvent#0" expanded="false" />
-                <element signature="docComment;method#getOppositeWindow#0;class#WindowEvent#0" expanded="false" />
-                <element signature="method#getOppositeWindow#0;class#WindowEvent#0" expanded="false" />
-                <element signature="docComment;method#getOldState#0;class#WindowEvent#0" expanded="false" />
-                <element signature="docComment;method#getNewState#0;class#WindowEvent#0" expanded="false" />
-                <element signature="docComment;method#paramString#0;class#WindowEvent#0" expanded="false" />
-                <element signature="method#paramString#0;class#WindowEvent#0" expanded="false" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Accessible.java" pinned="false" current-in-tab="false">
-        <entry file="jar:///usr/local/java/jdk1.8.0_91/src.zip!/javax/accessibility/Accessible.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="270">
-              <caret line="38" column="17" selection-start-line="38" selection-start-column="17" selection-end-line="38" selection-end-column="17" />
-              <folding>
-                <element signature="e#0#1211#0" expanded="false" />
-              </folding>
             </state>
           </provider>
         </entry>
@@ -533,6 +297,7 @@
         <option value="$PROJECT_DIR$/idea常用快捷键.txt" />
         <option value="$PROJECT_DIR$/src/MyGame/GameUtil.java" />
         <option value="$PROJECT_DIR$/src/MyGame/GameFrame.java" />
+        <option value="$PROJECT_DIR$/src/MyGame/GameFrame02.java" />
       </list>
     </option>
   </component>
@@ -553,8 +318,8 @@
     <treeState />
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="60" />
-    <option name="y" value="39" />
+    <option name="x" value="397" />
+    <option name="y" value="87" />
     <option name="width" value="1717" />
     <option name="height" value="1048" />
   </component>
@@ -632,7 +397,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -679,7 +443,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="MyGame" />
+              <option name="myItemId" value="testInterface" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -697,14 +461,33 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="images" />
+              <option name="myItemId" value="polymophism" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Java_introduction" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Java_introduction" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="MyGame" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
       <pane id="Scratches" />
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -724,27 +507,7 @@
       <recent name="myCollection" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.GameFrame">
-    <configuration default="false" name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="abstractClass.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="MAIN_CLASS_NAME" value="abstractClass.Test" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="Java_introduction" />
-      <envs />
-      <method />
-    </configuration>
+  <component name="RunManager" selected="Application.GameFrame02">
     <configuration default="false" name="TestConstructor" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
@@ -813,6 +576,26 @@
         </pattern>
       </extension>
       <option name="MAIN_CLASS_NAME" value="MyGame.GameFrame" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="Java_introduction" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="GameFrame02" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="MyGame.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="MyGame.GameFrame02" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" />
@@ -1221,19 +1004,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Application.Test" />
-      <item index="1" class="java.lang.String" itemvalue="Application.TestConstructor" />
-      <item index="2" class="java.lang.String" itemvalue="Application.Test (1)" />
-      <item index="3" class="java.lang.String" itemvalue="Application.TestObject" />
-      <item index="4" class="java.lang.String" itemvalue="Application.GameFrame" />
+      <item index="0" class="java.lang.String" itemvalue="Application.TestConstructor" />
+      <item index="1" class="java.lang.String" itemvalue="Application.Test (1)" />
+      <item index="2" class="java.lang.String" itemvalue="Application.TestObject" />
+      <item index="3" class="java.lang.String" itemvalue="Application.GameFrame" />
+      <item index="4" class="java.lang.String" itemvalue="Application.GameFrame02" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Application.GameFrame" />
-        <item index="1" class="java.lang.String" itemvalue="Application.TestObject" />
-        <item index="2" class="java.lang.String" itemvalue="Application.Test (1)" />
-        <item index="3" class="java.lang.String" itemvalue="Application.TestConstructor" />
-        <item index="4" class="java.lang.String" itemvalue="Application.Test" />
+        <item index="0" class="java.lang.String" itemvalue="Application.GameFrame02" />
+        <item index="1" class="java.lang.String" itemvalue="Application.GameFrame" />
+        <item index="2" class="java.lang.String" itemvalue="Application.TestObject" />
+        <item index="3" class="java.lang.String" itemvalue="Application.Test (1)" />
+        <item index="4" class="java.lang.String" itemvalue="Application.TestConstructor" />
       </list>
     </recent_temporary>
   </component>
@@ -1264,6 +1047,7 @@
       <workItem from="1477212074612" duration="7531000" />
       <workItem from="1477232839547" duration="3063000" />
       <workItem from="1477275233827" duration="13049000" />
+      <workItem from="1477298735461" duration="3128000" />
     </task>
     <task id="LOCAL-00001" summary="string">
       <created>1476675865309</created>
@@ -1374,11 +1158,11 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="80836000" />
+    <option name="totallyTimeSpent" value="83964000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="60" y="39" width="1717" height="1048" extended-state="0" />
-    <editor active="false" />
+    <frame x="397" y="87" width="1717" height="1048" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -1388,11 +1172,11 @@
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.28929606" sideWeight="0.50213903" order="11" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32941177" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32785088" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2510965" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3739035" sideWeight="0.49786097" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2850877" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3731919" sideWeight="0.49786097" order="11" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.21415716" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.23995201" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.329934" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.18716256" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24955009" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -1488,7 +1272,7 @@
           <option name="timeStamp" value="31" />
         </line-breakpoint>
       </breakpoints>
-      <option name="time" value="37" />
+      <option name="time" value="41" />
     </breakpoint-manager>
     <watches-manager>
       <configuration name="Application">
@@ -1503,28 +1287,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="jar:///usr/local/java/jdk1.8.0_91/src.zip!/java/util/Date.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="151">
-          <caret line="338" column="0" selection-start-line="338" selection-start-column="0" selection-end-line="338" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/testDate/VisualCalendar.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="144">
-          <caret line="14" column="13" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///usr/local/java/jdk1.8.0_91/src.zip!/java/lang/System.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="302">
-          <caret line="352" column="50" selection-start-line="352" selection-start-column="50" selection-end-line="352" selection-end-column="50" />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar:///usr/local/java/jdk1.8.0_91/src.zip!/java/sql/Timestamp.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="194">
@@ -1579,7 +1341,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="144">
           <caret line="8" column="11" selection-start-line="8" selection-start-column="11" selection-end-line="8" selection-end-column="11" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1594,7 +1355,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="306">
           <caret line="17" column="18" selection-start-line="17" selection-start-column="18" selection-end-line="17" selection-end-column="18" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1602,7 +1362,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="756">
           <caret line="42" column="22" selection-start-line="42" selection-start-column="22" selection-end-line="42" selection-end-column="22" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1610,7 +1369,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="486">
           <caret line="27" column="20" selection-start-line="27" selection-start-column="20" selection-end-line="27" selection-end-column="20" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1619,7 +1377,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="324">
           <caret line="19" column="36" selection-start-line="19" selection-start-column="36" selection-end-line="19" selection-end-column="36" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1675,7 +1432,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="378">
           <caret line="44" column="39" selection-start-line="44" selection-start-column="39" selection-end-line="44" selection-end-column="39" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1683,7 +1439,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="2502">
           <caret line="166" column="15" selection-start-line="166" selection-start-column="15" selection-end-line="166" selection-end-column="15" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1691,9 +1446,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="270">
           <caret line="17" column="46" selection-start-line="17" selection-start-column="46" selection-end-line="17" selection-end-column="46" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1701,9 +1453,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="342">
           <caret line="19" column="30" selection-start-line="19" selection-start-column="30" selection-end-line="19" selection-end-column="30" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1711,9 +1460,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="360">
           <caret line="20" column="0" selection-start-line="20" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1729,10 +1475,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="342">
           <caret line="21" column="6" selection-start-line="21" selection-start-column="6" selection-end-line="21" selection-end-column="6" />
-          <folding>
-            <element signature="e#201#202#0" expanded="false" />
-            <element signature="e#241#242#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1740,7 +1482,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="126">
           <caret line="7" column="22" selection-start-line="7" selection-start-column="22" selection-end-line="7" selection-end-column="22" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1756,10 +1497,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="90">
           <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-          <folding>
-            <element signature="e#124#125#0" expanded="false" />
-            <element signature="e#167#168#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1767,7 +1504,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="90">
           <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1783,7 +1519,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="90">
           <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1791,7 +1526,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="90">
           <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1799,7 +1533,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="396">
           <caret line="22" column="35" selection-start-line="22" selection-start-column="35" selection-end-line="22" selection-end-column="35" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1807,7 +1540,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="126">
           <caret line="7" column="23" selection-start-line="7" selection-start-column="23" selection-end-line="7" selection-end-column="23" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1815,7 +1547,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="324">
           <caret line="18" column="40" selection-start-line="18" selection-start-column="40" selection-end-line="18" selection-end-column="40" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1823,7 +1554,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="90">
           <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1831,7 +1561,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="306">
           <caret line="19" column="5" selection-start-line="19" selection-start-column="5" selection-end-line="19" selection-end-column="5" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -2257,9 +1986,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="270">
           <caret line="38" column="17" selection-start-line="38" selection-start-column="17" selection-end-line="38" selection-end-column="17" />
-          <folding>
-            <element signature="e#0#1211#0" expanded="false" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -2310,7 +2037,7 @@
     </entry>
     <entry file="jar:///usr/local/java/jdk1.8.0_91/src.zip!/java/awt/event/WindowAdapter.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="217">
+        <state relative-caret-position="558">
           <caret line="54" column="22" selection-start-line="54" selection-start-column="22" selection-end-line="54" selection-end-column="22" />
           <folding />
         </state>
@@ -2318,7 +2045,7 @@
     </entry>
     <entry file="jar:///usr/local/java/jdk1.8.0_91/src.zip!/java/awt/Color.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-252">
+        <state relative-caret-position="126">
           <caret line="59" column="13" selection-start-line="59" selection-start-column="13" selection-end-line="59" selection-end-column="13" />
           <folding>
             <element signature="docComment;class#Color#0" expanded="false" />
@@ -2420,7 +2147,7 @@
     </entry>
     <entry file="jar:///usr/local/java/jdk1.8.0_91/src.zip!/java/awt/Font.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1081">
+        <state relative-caret-position="8946">
           <caret line="566" column="11" selection-start-line="566" selection-start-column="11" selection-end-line="566" selection-end-column="11" />
           <folding />
         </state>
@@ -2446,7 +2173,7 @@
     </entry>
     <entry file="jar:///usr/local/java/jdk1.8.0_91/src.zip!/java/lang/Thread.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="217">
+        <state relative-caret-position="11484">
           <caret line="695" column="29" selection-start-line="695" selection-start-column="29" selection-end-line="695" selection-end-column="29" />
           <folding />
         </state>
@@ -2457,15 +2184,39 @@
         <state />
       </provider>
     </entry>
+    <entry file="jar:///usr/local/java/jdk1.8.0_91/src.zip!/java/lang/Object.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="234">
+          <caret line="36" column="0" selection-start-line="36" selection-start-column="0" selection-end-line="36" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/MyGame/GameFrame.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="378">
-          <caret line="21" column="39" selection-start-line="21" selection-start-column="39" selection-end-line="21" selection-end-column="39" />
+        <state relative-caret-position="180">
+          <caret line="10" column="24" selection-start-line="10" selection-start-column="24" selection-end-line="10" selection-end-column="24" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#1208#1209#0" expanded="true" />
-            <element signature="e#1264#1265#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/MyGame/GameFrame02.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="243">
+          <caret line="26" column="35" selection-start-line="0" selection-start-column="0" selection-end-line="87" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/MyGame/GameFrame03.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="5" column="26" selection-start-line="5" selection-start-column="26" selection-end-line="5" selection-end-column="26" />
+          <folding />
         </state>
       </provider>
     </entry>
