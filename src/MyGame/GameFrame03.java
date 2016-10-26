@@ -17,38 +17,32 @@ class GameFrame03 extends Frame {  //GUI编程：AWT,swing等
     private double degree = 3.14 / 3;  //[0,2pi]
     private double speed = 10;
 
-//    @Override
-//    public void paint(Graphics g) {
-//
-//        g.drawImage(img, (int) x, (int) y, null);   //在窗口上重画图片
-//
-//        if(speed > 0){
-//            speed -= 0.05;
-//        }/*else {
-//            speed = 0;
-//        }*/
-//
-//        x += speed * Math.cos(degree);
-//        y += speed * Math.sin(degree);
-//
-//        if (y > 500 - 30 || y < 30) {
-//            degree = -degree;
-//        }
-//        /*if (y < 30) {
-//            degree = -degree;
-//        }*/
-//        if (x < 0 || x > 500 - 30) {
-//            degree = Math.PI - degree;
-//        }
-//        /*if (x > 500 - 30) {
-//            degree = Math.PI - degree;
-//        }*/
-//    }
-
-
     @Override
     public void paint(Graphics g) {
-        super.paint(g);
+
+        g.drawImage(img, (int) x, (int) y, null);   //在窗口上重画图片
+
+        if(speed > 0){
+            speed -= 0.05;
+        }/*else {
+            speed = 0;
+        }*/
+
+        x += speed * Math.cos(degree);
+        y += speed * Math.sin(degree);
+
+        if (y > 500 - 30 || y < 30) {
+            degree = -degree;
+        }
+        /*if (y < 30) {
+            degree = -degree;
+        }*/
+        if (x < 0 || x > 500 - 30) {
+            degree = Math.PI - degree;
+        }
+        /*if (x > 500 - 30) {
+            degree = Math.PI - degree;
+        }*/
     }
 
     /**
