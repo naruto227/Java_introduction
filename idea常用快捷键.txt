@@ -26,5 +26,5 @@
  * 单元测试：Ctrl+Alt+T创建单元测试用例。
  * 运行：Alt+Shift+F10运行程序，Shift+F9启动调试，Ctrl+F2停止。
  * 调试：F7/F8/F9分别对应Step into，Step over，Continue。
- * intellij只要改过电脑时间就无法输入，ctrl+o，调出该类的所有方法并选择性重写
+ * intellij只要改过电脑时间就无法输入，ctrl+o，调出该类的所有方法并选择性重写，shift+F6 Refactor 变量全部重命名
  * */
