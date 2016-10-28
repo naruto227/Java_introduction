@@ -35,6 +35,7 @@ public class Test01 {
         list1.add("ccc");
         list1.add("ddd");
         list.add(list1);
+        list.set(2,"haha");
         System.out.println(list.size());
 
 //        和顺序有关的操作
