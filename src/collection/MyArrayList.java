@@ -4,7 +4,7 @@ import java.util.ArrayList;
 import java.util.Scanner;
 
 /**
- * 自己实现一个ArrayList，帮助我们更好的理解ArrayList类的底层结构！
+ * 自己实现一个ArrayList，帮助更好的理解ArrayList类的底层结构！
  * Created by hzq on 16-10-27.
  */
 public class MyArrayList /*implements List*/ {
@@ -130,6 +130,7 @@ public class MyArrayList /*implements List*/ {
         list.add(222);
         list.add(null);
         list.add(null);
+        list.add(6,"hzq");
 
 //        list.add("22");
         System.out.println(list.size());
@@ -145,6 +146,7 @@ public class MyArrayList /*implements List*/ {
         } else {
             System.out.println("删除失败");
         }
+        System.out.println("get到元素："+list.get(4));
 
     }
 }
