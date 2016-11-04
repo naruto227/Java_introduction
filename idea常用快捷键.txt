@@ -28,4 +28,5 @@
  * 调试：F7/F8/F9分别对应Step into，Step over，Continue。
  * intellij只要改过电脑时间就无法输入，ctrl+o，调出该类的所有方法并选择性重写，shift+F6 Refactor 变量全部重命名
  * ctrl+Alt+B 打开implementation(s)
+ * ctrl+Alt+m 方法重构（选中你要重构的部分）
  * */

@@ -21,7 +21,7 @@ public class TestStatic {
     }
 
     public void doit(){
-        print();//非静态 方法可以引用 静态方法 print()
+//        print();//非静态 方法可以引用 静态方法 print()
         Scanner scanner = new Scanner(System.in);
         System.out.println("请输入id=");
         id = scanner.nextInt();

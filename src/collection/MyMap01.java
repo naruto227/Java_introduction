@@ -12,7 +12,7 @@ public class MyMap01 {
     public void put(Object key, Object value) {
         MyEntry e = new MyEntry(key, value);
         for(int i = 0; i < size; i++){
-            if(arr[i].key.equals(key)){
+            if(arr[i].key.equals(key)){ //如果有该键，覆盖值
                 arr[i].value = value;
                 return;
             }

@@ -79,13 +79,7 @@ public class MyLinkedList {
 //        Node temp = null;
 //        if (first != null) {
 //            temp = first;
-        if(index < 0 || index >= size){
-            try {
-                throw new Exception();
-            } catch (Exception e) {
-                e.printStackTrace();
-            }
-        }
+        rangeCheck(index);
             /**
              * size:50  查找位置：2、47呢
              * index 跟 size/2 比较

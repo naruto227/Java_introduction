@@ -32,8 +32,8 @@ public class MyMap02 {
                     return;
                 }
             }
+            arr[a].add(e);
         }
-        arr[a].add(e);
 //        a:1000-->1    b:10000-->13
 //        arr[a] = e;
     }

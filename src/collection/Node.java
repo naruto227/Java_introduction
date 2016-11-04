@@ -10,6 +10,7 @@ public class Node {
     Node pNext;
 
     public Node() {
+
     }
 
     public Node getPrevious() {
