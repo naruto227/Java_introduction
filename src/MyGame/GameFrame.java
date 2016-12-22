@@ -60,7 +60,7 @@ public class GameFrame extends Frame {  //GUI编程：AWT,swing等
             while (true) {
                 repaint();
                 try {
-                    Thread.sleep(50);   //1s = 1000ms
+                    Thread.sleep(1000);   //1s = 1000ms
                 } catch (InterruptedException e) {
                     e.printStackTrace();
                 }

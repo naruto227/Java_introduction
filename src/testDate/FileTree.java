@@ -3,6 +3,7 @@ package testDate;
 import java.io.File;
 
 /**
+ * 递归 目录中的文件
  * Created by hzq on 16-10-23.
  */
 public class FileTree {
