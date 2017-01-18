@@ -12,4 +12,5 @@ public interface USB {
     /**写入数据*/
     public abstract void writeData(byte[] data);
 }
-/*该接口中规定电压常量为5V，声明了两个方法，要求实现USB时必须实现这样两个方法，至于如何实现这里不做规定。*/
+/*该接口中规定电压常量为5V，声明了两个方法，要求实现USB时必须实现这样两个方法，至于如何实现这里不做规定。
+* 访问控制符 [修饰符] class 类名 [extends 父类名] implements 父接口名1,父接口名2*/
