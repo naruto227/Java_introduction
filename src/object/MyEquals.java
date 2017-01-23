@@ -16,28 +16,33 @@ public class MyEquals {
 
     /**
      * 判断对象内容是否相同
+     *
      * @param obj 需要比较的对象
      * @return
      */
-    public boolean equals(Object obj){
-        if(obj == this){
+    public boolean equals(Object obj) {
+//        如果比较的内容是自身
+        if (obj == this) {
             return true;
         }
-
-        if(!(obj instanceof MyEquals)){
+//        对象类型不同
+        if (!(obj instanceof MyEquals)) {
             return false;
         }
-
+//转换成当前类类型
         MyEquals m = (MyEquals) obj;
-
-        if(!name.equals(m.name)){
+/**
+ * 依次比较对象中每个变量
+ */
+//name属性不同
+        if (!name.equals(m.name)) {
             return false;
         }
-
-        if(!(n== m.n)){
+//n属性不同
+        if (!(n == m.n)) {
             return false;
         }
-
+//如果都相同，则返回true
         return true;
     }
 }
