@@ -46,3 +46,5 @@ public class MyEquals {
         return true;
     }
 }
+/*在实际比较时，首先判断是否是自身，然后再判断对象的类型是否符合要求，可以使用instanceof关键字进行判断，该运算符的语法格式为：
+                            对象名 instanceof 类名*/
