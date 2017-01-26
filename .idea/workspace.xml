@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4c292b54-89c4-478a-8d69-c6a01e89e107" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/String类" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/String类" afterPath="$PROJECT_DIR$/src/String类" />
     </list>
     <ignored path="Java_introduction.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -115,8 +115,8 @@
       <file leaf-file-name="String类" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/String类">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="300">
-              <caret line="31" column="0" lean-forward="true" selection-start-line="31" selection-start-column="0" selection-end-line="31" selection-end-column="0" />
+            <state relative-caret-position="340">
+              <caret line="55" column="1" lean-forward="false" selection-start-line="55" selection-start-column="1" selection-end-line="55" selection-end-column="1" />
               <folding />
             </state>
           </provider>
@@ -934,7 +934,7 @@
       <workItem from="1484748510037" duration="2118000" />
       <workItem from="1485136798589" duration="2231000" />
       <workItem from="1485341627029" duration="598000" />
-      <workItem from="1485442086897" duration="420000" />
+      <workItem from="1485442086897" duration="625000" />
     </task>
     <task id="LOCAL-00001" summary="string">
       <created>1476675865309</created>
@@ -1216,11 +1216,18 @@
       <option name="project" value="LOCAL" />
       <updated>1485442116370</updated>
     </task>
-    <option name="localTasksCounter" value="41" />
+    <task id="LOCAL-00041" summary="equals">
+      <created>1485442513524</created>
+      <option name="number" value="00041" />
+      <option name="presentableId" value="LOCAL-00041" />
+      <option name="project" value="LOCAL" />
+      <updated>1485442513524</updated>
+    </task>
+    <option name="localTasksCounter" value="42" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="218430000" />
+    <option name="totallyTimeSpent" value="218635000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="487" y="1" width="1370" height="772" extended-state="0" />
@@ -1736,8 +1743,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/String类">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="31" column="0" lean-forward="true" selection-start-line="31" selection-start-column="0" selection-end-line="31" selection-end-column="0" />
+        <state relative-caret-position="340">
+          <caret line="55" column="1" lean-forward="false" selection-start-line="55" selection-start-column="1" selection-end-line="55" selection-end-column="1" />
           <folding />
         </state>
       </provider>
