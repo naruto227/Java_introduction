@@ -115,8 +115,8 @@
       <file leaf-file-name="StringFunc.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/string/StringFunc.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="216">
-              <caret line="12" column="5" lean-forward="true" selection-start-line="12" selection-start-column="5" selection-end-line="12" selection-end-column="5" />
+            <state relative-caret-position="252">
+              <caret line="14" column="17" lean-forward="true" selection-start-line="14" selection-start-column="17" selection-end-line="14" selection-end-column="17" />
               <folding />
             </state>
           </provider>
@@ -960,7 +960,7 @@
       <workItem from="1485341627029" duration="598000" />
       <workItem from="1485442086897" duration="750000" />
       <workItem from="1485526320677" duration="304000" />
-      <workItem from="1485600496714" duration="204000" />
+      <workItem from="1485600496714" duration="345000" />
     </task>
     <task id="LOCAL-00001" summary="string">
       <created>1476675865309</created>
@@ -1270,11 +1270,18 @@
       <option name="project" value="LOCAL" />
       <updated>1485526610848</updated>
     </task>
-    <option name="localTasksCounter" value="45" />
+    <task id="LOCAL-00045" summary="1">
+      <created>1485600709247</created>
+      <option name="number" value="00045" />
+      <option name="presentableId" value="LOCAL-00045" />
+      <option name="project" value="LOCAL" />
+      <updated>1485600709247</updated>
+    </task>
+    <option name="localTasksCounter" value="46" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="219268000" />
+    <option name="totallyTimeSpent" value="219409000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
@@ -1790,8 +1797,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/string/StringFunc.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="216">
-          <caret line="12" column="5" lean-forward="true" selection-start-line="12" selection-start-column="5" selection-end-line="12" selection-end-column="5" />
+        <state relative-caret-position="252">
+          <caret line="14" column="17" lean-forward="true" selection-start-line="14" selection-start-column="17" selection-end-line="14" selection-end-column="17" />
           <folding />
         </state>
       </provider>
