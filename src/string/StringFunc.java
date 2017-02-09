@@ -13,5 +13,23 @@ public class StringFunc {
 
         String s = "abc";
         char c = s.charAt(1);
+        System.out.println(c);
+
+        String s1 = "abc";
+        String s2 = "abd";
+        System.out.println(s1.compareTo(s2));//compareToIgnoreCase，这个方法是忽略字符的大小写进行比较
+
+        String s3 = "abc";
+        String s4 = "def";
+        System.out.println(s3.concat(s4));
+//        使用“+”进行字符串的连接
+        String s0 = "abc" + "1234";
+        System.out.println(s0);
+
+        int a = 10;
+        String a0 = "123" + a + 5;
+        System.out.println(a0);
+        String a1 = a + 5 + "123";//计算的过程为首先计算a和数字5，由于都是数字型则进行加法运算或者数字值15，然后再使用数字值15和字符串”123”进行连接获得最终的结果。
+        System.out.println(a1);
     }
 }
