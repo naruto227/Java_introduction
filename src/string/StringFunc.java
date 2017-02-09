@@ -12,6 +12,6 @@ public class StringFunc {
         s = new String("Java语言");*/
 
         String s = "abc";
-        c = s.chatAt(1);
+        char c = s.charAt(1);
     }
 }
