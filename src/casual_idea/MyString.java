@@ -11,7 +11,6 @@ public class MyString {
 
     public static void main(String[] args) {
         StringBuilder res = new StringBuilder();
-        StringBuilder pw = new StringBuilder();
         System.out.println('a' + 1);//"a"+1结果为a1,'a'+1结果为98
         //abcdefghijklmnopqrstuvwxyz
         for (char i = 'a'; i <= 'z'; i++) {
@@ -32,13 +31,18 @@ public class MyString {
 
         Scanner scanner = new Scanner(System.in);
         while (scanner.hasNextInt()) {
+            StringBuilder pw = new StringBuilder();
             temp = scanner.nextInt();
             System.out.println(temp);
-            for (int i = 0; i < temp; i++) {
-                pw.append(res.charAt((int) (Math.random() * length)));
-            }
-            System.out.println("生成的验证码为：" + pw);
-            System.out.print("请输入您想要生成几位的随机验证码：");
+            CreatePw(res, pw, length);
         }
+    }
+
+    private static void CreatePw(StringBuilder res, StringBuilder pw, int length) {
+        for (int i = 0; i < temp; i++) {
+            pw.append(res.charAt((int) (Math.random() * length)));
+        }
+        System.out.println("生成的验证码为：" + pw);
+        System.out.print("请输入您想要生成几位的随机验证码：");
     }
 }
