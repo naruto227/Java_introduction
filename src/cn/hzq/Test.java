@@ -10,7 +10,7 @@ public class Test {
         //通过类加载器Class Loader加载Studet类。加载后，在方法区中就有了Student类的信息
         Student stu1 = new Student();
         Student stu2 = new Student();
-        /*Scanner scanner = new Scanner(System.in);
+        Scanner scanner = new Scanner(System.in);
         System.out.println("请输入一个名字：");
         stu2.name = scanner.next();
         stu1.study();
@@ -18,7 +18,7 @@ public class Test {
         stu1.sayHello(scanner.next());
         System.out.println("请输入第三个人名字：");
         stu1.name = scanner.next();
-        stu2.study();*/
+        stu2.study();
 
         Computer computer = new Computer();
 

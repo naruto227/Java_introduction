@@ -27,7 +27,7 @@ public class Point {
         Point point = new Point(3, 8, 4);
         Point point1 = new Point(100, 10, 10);
         point.set(10, 10, 10);
-        System.out.println("x=" + point.x);
+        System.out.println("x = " + point.x);
         System.out.println(point.distance(point1));
     }
 }
