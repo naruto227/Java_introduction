@@ -3,8 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="4c292b54-89c4-478a-8d69-c6a01e89e107" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/collection/MyArrayList.java" afterPath="$PROJECT_DIR$/src/collection/MyArrayList.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/collection/MyHashSet.java" afterPath="$PROJECT_DIR$/src/collection/MyHashSet.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/collection/MyLinkedList.java" afterPath="$PROJECT_DIR$/src/collection/MyLinkedList.java" />
     </list>
     <ignored path="Java_introduction.iws" />
@@ -37,8 +35,8 @@
       <file leaf-file-name="MyLinkedList.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/collection/MyLinkedList.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="309">
-              <caret line="41" column="31" lean-forward="true" selection-start-line="41" selection-start-column="31" selection-end-line="41" selection-end-column="31" />
+            <state relative-caret-position="406">
+              <caret line="95" column="47" lean-forward="false" selection-start-line="95" selection-start-column="47" selection-end-line="95" selection-end-column="47" />
               <folding />
             </state>
           </provider>
@@ -1083,7 +1081,7 @@
       <workItem from="1493952976346" duration="3730000" />
       <workItem from="1493971654678" duration="4533000" />
       <workItem from="1493976318802" duration="589000" />
-      <workItem from="1494036265241" duration="4141000" />
+      <workItem from="1494036265241" duration="5041000" />
     </task>
     <task id="LOCAL-00001" summary="string">
       <created>1476675865309</created>
@@ -1386,11 +1384,18 @@
       <option name="project" value="LOCAL" />
       <updated>1493972013152</updated>
     </task>
-    <option name="localTasksCounter" value="44" />
+    <task id="LOCAL-00044" summary="list node">
+      <created>1494041633624</created>
+      <option name="number" value="00044" />
+      <option name="presentableId" value="LOCAL-00044" />
+      <option name="project" value="LOCAL" />
+      <updated>1494041633624</updated>
+    </task>
+    <option name="localTasksCounter" value="45" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="238301000" />
+    <option name="totallyTimeSpent" value="239201000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
@@ -1443,7 +1448,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="FileTree" />
     <MESSAGE value="readFile" />
     <MESSAGE value="game Frame class" />
     <MESSAGE value="images" />
@@ -1468,7 +1472,8 @@
     <MESSAGE value="验证码生成" />
     <MESSAGE value="~" />
     <MESSAGE value="static" />
-    <option name="LAST_COMMIT_MESSAGE" value="static" />
+    <MESSAGE value="list node" />
+    <option name="LAST_COMMIT_MESSAGE" value="list node" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -2021,8 +2026,8 @@
         <state relative-caret-position="192">
           <caret line="66" column="4" lean-forward="false" selection-start-line="66" selection-start-column="4" selection-end-line="66" selection-end-column="4" />
           <folding>
-            <element signature="e#1327#1328#0" expanded="true" />
-            <element signature="e#1369#1370#0" expanded="true" />
+            <element signature="e#1327#1328#0" expanded="false" />
+            <element signature="e#1369#1370#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -2110,8 +2115,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/collection/MyLinkedList.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="309">
-          <caret line="41" column="31" lean-forward="true" selection-start-line="41" selection-start-column="31" selection-end-line="41" selection-end-column="31" />
+        <state relative-caret-position="406">
+          <caret line="95" column="47" lean-forward="false" selection-start-line="95" selection-start-column="47" selection-end-line="95" selection-end-column="47" />
           <folding />
         </state>
       </provider>

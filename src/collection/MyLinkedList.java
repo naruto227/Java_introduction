@@ -93,7 +93,7 @@ public class MyLinkedList {
             return x;
         } else {
             Node x = last;
-            for (int i = size - 1; i >= 0; i--)
+            for (int i = size - 1; i >= index + 1; i--)
                 x = x.previous;
             return x;
         }
