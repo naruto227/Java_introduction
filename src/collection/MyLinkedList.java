@@ -38,11 +38,11 @@ public class MyLinkedList {
         newNode.pNode = o;
         if (temp != null) {
             Node up = temp.previous;
-            Node down = temp.pNext;
+//            Node down = temp.pNext;
             up.pNext = newNode;
             newNode.previous = up;
-            newNode.pNext = down;
-            down.previous = newNode;
+            newNode.pNext = temp;
+            temp.previous = newNode;
 
             size++;
         }
@@ -80,25 +80,25 @@ public class MyLinkedList {
 //        if (first != null) {
 //            temp = first;
         rangeCheck(index);
-            /**
-             * size:50  查找位置：2、47呢
-             * index 跟 size/2 比较
-             * [0,24]   [25,49]
-             */
-            if (index < (size >> 1)) {
-                Node x = first;
-                for (int i = 0; i < index; i++) {
-                    x = x.pNext;
-                }
-                return x;
-            } else {
-                Node x = last;
-                for (int i = size - 1; i >= 0; i--)
-                    x = x.previous;
-                return x;
+        /**
+         * size:50  查找位置：2、47呢
+         * index 跟 size/2 比较
+         * [0,24]   [25,49]
+         */
+        if (index < (size >> 1)) {
+            Node x = first;
+            for (int i = 0; i < index; i++) {
+                x = x.pNext;
             }
-
+            return x;
+        } else {
+            Node x = last;
+            for (int i = size - 1; i >= 0; i--)
+                x = x.previous;
+            return x;
         }
+
+    }
 //        LinkedList
 //        return temp;
 //    }
@@ -122,7 +122,7 @@ public class MyLinkedList {
         list.add("eee");
         list.add("fff");
         list.add("ggg");
-
+        list.add(1, "hzq");
         /*for ( i : list) {
 
         }*/

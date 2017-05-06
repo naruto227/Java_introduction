@@ -130,7 +130,7 @@ public class MyArrayList /*implements List*/ {
         list.add(222);
         list.add(null);
         list.add(null);
-        list.add(6,"hzq");
+        list.add(1,"hzq");
 
 //        list.add("22");
         System.out.println(list.size());

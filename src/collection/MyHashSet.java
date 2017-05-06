@@ -3,7 +3,7 @@ package collection;
 import java.util.HashMap;
 
 /**
- * 定义自己的HashSet
+ * 定义自己的HashSet：该容器中只能存储不重复的对象
  * Created by hzq on 16-10-31.
  */
 public class MyHashSet {
@@ -29,6 +29,8 @@ public class MyHashSet {
         MyHashSet s = new MyHashSet();
         s.add("aaa");
         s.add(new String("aaa"));
-        System.out.println(s.size());
+        s.add("aaa");
+        System.out.println(s.map.size());// 1
+        System.out.println(s.size());// 3
     }
 }
