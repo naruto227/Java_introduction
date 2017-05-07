@@ -18,21 +18,21 @@ public class MyMap02 {
 //        System.out.println(key.hashCode());
         MyEntry e = new MyEntry(key, value);
         int a = key.hashCode() % 1000;
-//        此处有些不理解
+//        此处有些不理解 hashCode值作为数组下标
         if (arr[a] == null) {
             LinkedList list = new LinkedList();
-            arr[a] = list;
+            arr[a] = list;//每一个数组元素都是一条链表
             list.add(e);
         } else {
             LinkedList list = arr[a];
             for(int i = 0; i < list.size(); i++){
-                MyEntry e2 = (MyEntry) list.get(i);
+                MyEntry e2 = (MyEntry) list.get(i);//获取链表中某一个键值对
                 if(e2.key.equals(key)){ //键值重复，直接覆盖
                     e2.value = value;
                     return;
                 }
             }
-            arr[a].add(e);
+            arr[a].add(e);//该数组链表中没有重复的键时，则加入一条新的元素
         }
 //        a:1000-->1    b:10000-->13
 //        arr[a] = e;

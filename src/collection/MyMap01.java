@@ -40,7 +40,7 @@ public class MyMap01 {
 
     public boolean containsValue(Object value){
         for(int i = 0; i < size; i++){
-            if(((Wife)arr[i].value).name.equals(value)){
+            if(((Wife)arr[i].value).name.equals(value)){//对象的属性，Object、Wife
                 return true;
             }
         }
