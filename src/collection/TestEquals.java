@@ -24,6 +24,6 @@ public class TestEquals {
 //        键不能重复
         map.put(s1,"AAAA");
         map.put(s2,"BBBBBBB");
-        System.out.println(map.get("aaa"));
+        System.out.println(map.get("aaa")+ " "+ map.size());
     }
 }

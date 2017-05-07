@@ -4,7 +4,7 @@ import java.util.HashSet;
 import java.util.Set;
 
 /**
- * 测试Set的常用方法
+ * 测试Set的常用方法 Set集合是一个不包含重复元素的Collection
  * Created by hzq on 16-10-31.
  */
 public class TestSet {
