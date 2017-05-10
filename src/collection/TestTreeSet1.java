@@ -10,7 +10,7 @@ import java.util.TreeSet;
  */
 public class TestTreeSet1 {
     public static void main(String[] args) {
-        Set<String> set = new TreeSet<String>();
+        Set<String> set = new TreeSet<>();
         set.add("f");
         set.add("f");
         set.add("a");
