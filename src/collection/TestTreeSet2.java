@@ -10,7 +10,7 @@ import java.util.TreeSet;
  */
 public class TestTreeSet2 {
     public static void main(String[] args) {
-        Set<String> set = new TreeSet<String>(new MyComparator());//倒序输出
+        Set<String> set = new TreeSet<String>(new MyComparator());//倒序输出，底层的原理还是不懂！！！
 
         set.add("a");
         set.add("b");
